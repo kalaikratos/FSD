@@ -14,7 +14,7 @@ class movie{
         rating:this.rating})
 
    }
-   getPG(arr)
+   getgetPG(arr)
    {
     let data=arr.filter(film=>film.rating=="PG")
      console.log(data.map(b=>b.title))
@@ -22,9 +22,9 @@ class movie{
 }
    let Movie1=new movie("Leo","7studios")
    Movie1.display()
-  let Movie2=new movie("chitha","sidarth","7")
-  let Movie3=new movie("Ironman","marvel","7")
-  let film=new movie("Endgame","marvel","7")
+  let Movie2=new movie("chitha","sidarth","PG")
+  let Movie3=new movie("Ironman","marvel","PG")
+  let film=new movie("Endgame","Eon Productions","PG13")
  film.display()
   let arr=[]
    arr.push(Movie1.movieobject())
