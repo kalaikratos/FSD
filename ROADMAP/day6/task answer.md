@@ -14,7 +14,7 @@ class movie{
         rating:this.rating})
 
    }
-   getgetPG(arr)
+   getPG(arr)
    {
     let data=arr.filter(film=>film.rating=="PG")
      console.log(data.map(b=>b.title))
