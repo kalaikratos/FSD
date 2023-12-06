@@ -24,7 +24,7 @@ class movie{
    Movie1.display()
   let Movie2=new movie("chitha","sidarth","PG")
   let Movie3=new movie("Ironman","marvel","PG")
-  let film=new movie("Endgame","Eon Productions","PG13")
+  let film=new movie("casinoroyale","Eon Productions","PG13")
  film.display()
   let arr=[]
    arr.push(Movie1.movieobject())
