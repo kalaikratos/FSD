@@ -48,7 +48,7 @@ const XMLHttpRequest = require('xhr2');
 
  //open the connection
 
-       xhr.open('GET','https://restcountries.com/v2/all', true);
+       xhr.open('GET','https://restcountries.com/v3.1/all', true);
 
        //send the http request
 
@@ -75,36 +75,15 @@ const XMLHttpRequest = require('xhr2');
    // require the library xhr2
 
 const XMLHttpRequest = require('xhr2');
-
-//require the emoji-flags library 
-
-const emojiFlags = require('emoji-flags');
-let xhr = new XMLHttpRequest();
-
-// open the connection
-
-       xhr.open('GET','https://restcountries.com/v2/all', true);
-
-       // send the http request
-
+       let xhr = new XMLHttpRequest();
+       xhr.open('GET','https://restcountries.com/v3.1/all', true);
        xhr.send();
-
-       // function to handle the response from the web server
-
        xhr.onload = function(){
-
-       // convert the json string response xhr.responseText 
-    // to a javascript object
-
        var data = JSON.parse(xhr.response);
-
-       //use forEach function to print details 
-
-           data.forEach((value) => {
-            let countryEmoji = emojiFlags.countryCode(value.alpha2Code);
-                console.log("country name =>",value.name,",capital =>",value.capital,",flag =>",countryEmoji.emoji);
+       data.forEach((value)=>{
+           console.log("country name =>",value.name,",capital =>",value.capital,",flag =>",value.flag);
+          
     })}
-
 //d.)Print the total population of countries using reduce function
 
 
@@ -118,7 +97,7 @@ let xhr = new XMLHttpRequest();
 
  //open the connection
 
-       xhr.open('GET','https://restcountries.com/v2/all', true);
+       xhr.open('GET','https://restcountries.com/v3.1/all', true);
 
        //send http request
 
@@ -142,7 +121,7 @@ let xhr = new XMLHttpRequest();
 
 const XMLHttpRequest = require('xhr2');
  let xhr = new XMLHttpRequest();
-       xhr.open('GET','https://restcountries.com/v2/all', true);
+       xhr.open('GET','https://restcountries.com/v3/all', true);
        xhr.send();
 xhr.onload = function () {
     var data = JSON.parse(xhr.response);

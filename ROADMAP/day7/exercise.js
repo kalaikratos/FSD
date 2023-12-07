@@ -25,6 +25,52 @@ let divisbleFilter = (value, index, array) => {
 }
 let divisibleNumbers = numbers.filter(divisbleFilter);
 console.log(divisibleNumbers);
-*/
 let prices = [2, 3, 4, 6, 8, 9];
+
+const XMLHttpRequest = require('xhr2');
+
+//require the emoji-flags library 
+
+const emojiFlags = require('emoji-flags');
+let xhr = new XMLHttpRequest();
+
+// open the connection
+
+       xhr.open('GET','https://restcountries.com/v2/all', true);
+
+       // send the http request
+
+       xhr.send();
+
+       // function to handle the response from the web server
+
+       xhr.onload = function(){
+
+       // convert the json string response xhr.responseText 
+    // to a javascript object
+
+       var data = JSON.parse(xhr.response);
+
+       //use forEach function to print details 
+
+           data.forEach((value) => {
+            let countryEmoji = emojiFlags.countryCode(value.alpha2Code);
+                console.log("country name =>",value.name,",capital =>",value.capital,",flag =>",countryEmoji.emoji);
+    })}
+
+
+*/
+
+const XMLHttpRequest = require('xhr2');
+       let xhr = new XMLHttpRequest();
+       xhr.open('GET','https://restcountries.com/v3/all', true);
+       xhr.send();
+       xhr.onload = function(){
+       var data = JSON.parse(xhr.response);
+       data.forEach((value)=>{
+            console.log("country name =>",value.name,",capital =>",value.capital,",flag =>",value.flag);
+           
+    })}
+
+
 
