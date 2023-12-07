@@ -1,5 +1,5 @@
-/*Solving problems using array functions on rest countries data (https://restcountries.com/v3.1/all).
-a.)Get all the countries from Asia continent /region using Filter function
+//Solving problems using array functions on rest countries data (https://restcountries.com/v3.1/all).
+//a.)Get all the countries from Asia continent /region using Filter function
 
 //require the library xhr2
 
@@ -35,7 +35,7 @@ xhr.onload = function () {
     }).map(country => country.name.common));    
 }
 
-b.)Get all the countries with a population of less than 2 lakhs using Filter function
+//b.)Get all the countries with a population of less than 2 lakhs using Filter function
 
 
 //require the library xhr2
@@ -69,7 +69,7 @@ const XMLHttpRequest = require('xhr2');
                 return value.population<200000;
             }));}
 
-c.)Print the following details name, capital, flag, using forEach function
+//c.)Print the following details name, capital, flag, using forEach function
 
 
    // require the library xhr2
@@ -105,7 +105,7 @@ let xhr = new XMLHttpRequest();
                 console.log("country name =>",value.name,",capital =>",value.capital,",flag =>",countryEmoji.emoji);
     })}
 
-d.)Print the total population of countries using reduce function
+//d.)Print the total population of countries using reduce function
 
 
  //require library xhr2
@@ -137,7 +137,7 @@ d.)Print the total population of countries using reduce function
             },0)
     console.log(population);}
 
-e.)Print the country that uses US dollars as currency.
+//e.)Print the country that uses US dollars as currency.
     
 
 const XMLHttpRequest = require('xhr2');
