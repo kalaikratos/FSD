@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <div id="countries"></div>
+
+    <script>
+        let XMLHttpRequest = require('xhr2');
+        let xhr = new XMLHttpRequest();
+
+        xhr.open('GET', 'https://restcountries.com/v3.1/all');
+
+        xhr.onload = function () {
+            let countries = JSON.parse(xhr.responseText);
+            let countriesDiv = document.getElementById('countries');
+
+            countries.forEach(country => {
+                let p = document.createElement('p');
+                p.textContent = `Name: ${country.name.common}, Capital: ${country.capital[0]}`;
+                countriesDiv.appendChild(p);
+
+                let img = document.createElement('img');
+                img.src = country.flags[0];
+                countriesDiv.appendChild(img);
+            });
+        }
+
+        xhr.send();
+    </script>
+</body>
+
+</html>
