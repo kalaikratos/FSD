@@ -128,7 +128,9 @@ const XMLHttpRequest = require('xhr2');
 xhr.onload = function () {
     var data = JSON.parse(xhr.response);
          
-    data.forEach(country => {
-        console.log(country.currencies);
-    })
+  data.forEach(country => {
+        if (country.currencies && country.currencies.USD) {
+            console.log(`Country: ${country.name.common}`);
+        }
+    });
 }
