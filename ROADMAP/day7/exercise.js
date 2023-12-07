@@ -61,16 +61,5 @@ let xhr = new XMLHttpRequest();
 
 */
 
-const XMLHttpRequest = require('xhr2');
-       let xhr = new XMLHttpRequest();
-       xhr.open('GET','https://restcountries.com/v3/all', true);
-       xhr.send();
-       xhr.onload = function(){
-       var data = JSON.parse(xhr.response);
-       data.forEach((value)=>{
-            console.log("country name =>",value.name,",capital =>",value.capital,",flag =>",value.flag);
-           
-    })}
-
-
-
+  
+    

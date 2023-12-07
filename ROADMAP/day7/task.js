@@ -61,13 +61,15 @@ const XMLHttpRequest = require('xhr2');
          // convert the json string response xhr.responseText 
        // to a javascript object
 
-       var data = JSON.parse(xhr.response);
+       var countries = JSON.parse(xhr.response);
 
          //print all the countries with population less than 2lakhs
 
-    console.log(data.filter((value)=>{
-                return value.population<200000;
-            }));}
+   console.log(countries.filter(country => {
+        if (country.population <200000) {
+            return true;
+        }
+    }).map(country => country.name.common));}
 
 //c.)Print the following details name, capital, flag, using forEach function
 
@@ -127,14 +129,6 @@ xhr.onload = function () {
     var data = JSON.parse(xhr.response);
          
     data.forEach(country => {
-        if (country.currencies) {
-            let currencies = Object.values(country.currencies);
-            for (let i = 0; i < currencies.length; i++) {
-                if (currencies[i] && currencies[i].code === 'USD') {
-                    console.log(`Country: ${country.name}`);
-                    break;
-                }
-            }
-        }
-    });
+        console.log(country.currencies);
+    })
 }
