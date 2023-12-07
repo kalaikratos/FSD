@@ -123,7 +123,7 @@ const XMLHttpRequest = require('xhr2');
 
 const XMLHttpRequest = require('xhr2');
  let xhr = new XMLHttpRequest();
-       xhr.open('GET','https://restcountries.com/v3/all', true);
+       xhr.open('GET','https://restcountries.com/v3.1/all', true);
        xhr.send();
 xhr.onload = function () {
     var data = JSON.parse(xhr.response);
