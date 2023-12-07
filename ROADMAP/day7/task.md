@@ -1,5 +1,6 @@
 /*Solving problems using array functions on rest countries data (https://restcountries.com/v3.1/all).
 a.)Get all the countries from Asia continent /region using Filter function
+
 //require the library xhr2
 const XMLHttpRequest = require('xhr2');
 // create an object to the XMLHttpRequest class
@@ -23,6 +24,8 @@ xhr.onload = function () {
 }
 
 b.)Get all the countries with a population of less than 2 lakhs using Filter function
+
+
 //require the library xhr2
 const XMLHttpRequest = require('xhr2');
 // create an object to the XMLHttpRequest class
@@ -43,6 +46,8 @@ const XMLHttpRequest = require('xhr2');
             }));}
 
 c.)Print the following details name, capital, flag, using forEach function
+
+
    // require the library xhr2
 const XMLHttpRequest = require('xhr2');
 //require the emoji-flags library 
@@ -64,6 +69,8 @@ let xhr = new XMLHttpRequest();
     })}
 
 d.)Print the total population of countries using reduce function
+
+
  //require library xhr2
 
   const XMLHttpRequest = require('xhr2');
