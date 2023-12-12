@@ -61,18 +61,5 @@ let xhr = new XMLHttpRequest();
 
 */
 
- let XMLHttpRequest = require('xhr2');
-let xhr = new XMLHttpRequest();
-
-xhr.open('GET', 'https://restcountries.com/v3/all', true);
-xhr.send();
-xhr.onload = function () {
-    let data = JSON.parse(xhr.response);
-    data.forEach(country => {
-        if (country.currencies && country.currencies.USD) {
-            console.log(`Country: ${country.name.common}`);
-        }
-    });
-}
-
+ 
     
