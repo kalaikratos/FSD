@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo classes</title>
+</head>
+<body>
+    <a href="https://google.com">visit google.com</a>
+      <button>Hover over me</button>
+      <style>
+        a:link {
+            color:green;
+        }
+        a:visited{
+            color:red;
+        }
+        a:hover{
+            color: dodgerblue;
+            border:1px dotted black;
+            padding: 4px;
+        }
+        a:active{
+            color: yellow;
+
+        }
+        button:hover{
+            background-color: aliceblue;
+            border: 0.5px lightsteelblue;
+
+        }
+        li:first-child{
+            color: blue;
+
+        }
+        li:last-child{
+            color: red;
+        }
+        li:nth-child(even):hover{
+            background-color:green
+        }
+       </style>
+       <p>List of hobbies</p>
+       <ul>
+        <li>Gaming</li>
+        <li>cooking</li>
+        <li>Travelling</li>
+       </ul>
+</body>
+</html>
