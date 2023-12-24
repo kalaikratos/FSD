@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calculator</title>
+    <style>
+        .calculator {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-gap: 10px;
+            max-width: 300px;
+            margin: 0 auto;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .calculator input {
+            grid-column: span 4;
+            padding: 10px;
+            font-size: 18px;
+        }
+        .calculator button {
+            padding: 10px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="calculator">
+        <input type="text" id="result" readonly>
+        <button onclick="clearResult()">C</button>
+        <button onclick="appendValue('7')">7</button>
+        <button onclick="appendValue('8')">8</button>
+        <button onclick="appendValue('9')">9</button>
+        <button onclick="appendValue('4')">4</button>
+        <button onclick="appendValue('5')">5</button>
+        <button onclick="appendValue('6')">6</button>
+        <button onclick="appendValue('1')">1</button>
+        <button onclick="appendValue('2')">2</button>
+        <button onclick="appendValue('3')">3</button>
+        <button onclick="appendValue('0')">0</button>
+        <button onclick="appendValue('.')">.</button>
+        <button onclick="calculate()">=</button>
+        <button onclick="appendValue('+')">+</button>
+        <button onclick="appendValue('-')">-</button>
+        <button onclick="appendValue('*')">*</button>
+        <button onclick="appendValue('/')">/</button>
+    </div>
+
+    <script>
+        function appendValue(value) {
+            var resultInput = document.getElementById('result');
+            resultInput.value += value;
+        }
+
+        function clearResult() {
+            var resultInput = document.getElementById('result');
+            resultInput.value = '';
+        }
+
+        function calculate() {
+            var resultInput = document.getElementById('result');
+            var result = eval(resultInput.value);
+            resultInput.value = result;
+        }
+    </script>
+</body>
+</html>

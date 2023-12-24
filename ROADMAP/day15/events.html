@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Twitter Character Counter</title>
+    <style>
+        body{
+            max: width 450px; ;
+            border: 2px solid rgb(213, 222, 222);
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px;
+            box-shadow: 0px 0px 5px 0px rgb(9, 9, 9);
+            height: 250px;
+            justify-content: center;
+            align-content: center;
+            text-align: center;
+            border-radius: 5px;
+            display:flex;
+            flex-direction: column;
+
+
+        }
+        .counter {
+            color: rgb(125, 207, 210);
+            border-color: rgb(125, 207, 210);
+            justify-content: center;
+            align-content: center;
+            padding: 20px;
+            
+        }
+        .counter.invalid {
+            color: rgb(119, 210, 212);
+            border-color: rgb(119, 210, 212);
+            padding: 20px;
+
+        }
+        h4{
+            color: rgb(125, 207, 210);
+            border-color: rgb(125, 207, 210);
+            justify-content: center;
+            align-content: center;
+            padding: 20px;
+            text-align: center;
+        }
+        #tweet {
+            width: 90%;
+            height: 100px;
+            border: 2px solid rgb(182, 199, 198);
+            border-radius: 5px;
+            padding: 10px;
+            margin: 10px;
+          
+        }
+    </style>
+</head>
+<body>
+    <h4>Tweet Something</h4>
+    <textarea id="tweet" rows="5" cols="40" maxlength="280" oninput="updateCounter()"></textarea>
+    
+    <div class="counter" id="counter">0/100</div>
+
+    <script>
+        function updateCharacterCount(event){
+            let chCount=event.target.value.lenght;
+            count.textContent=`${chCount}/100`;
+
+        }
+        let message=document.querySelector('.message');
+        let count=document.querySelector('.count');
+        message.addEventListener('input',updateCharacterCount);
+    </script>
+</body>
+</html>
