@@ -1,4 +1,4 @@
-var div=document.getElementById('timer')
+let div=document.getElementById('timer')
  
 setTimeout(()=>{
      div.innerHTML=10
