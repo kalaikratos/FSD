@@ -2,7 +2,7 @@
 let container = document.createElement("div");
 container.className = "container";
 container.innerHTML = `
-<h1 id="title" class="text-center">Countries & Weather</h1><br/><br/>
+<h1 id="title" class="text-center">Countries Data</h1><br/><br/>
 <div class="row" id="content">
     <div class="text-center">
         <img class="loader" src="/assets/images/hourglass.gif">
