@@ -18,9 +18,17 @@
         justify-content: center;
         align-items: center;
     }
+    .timer {
+        font-size: 8rem;
+        color:  rgb(128, 53, 0);
+        
+    }
     @media screen and (max-width: 768px) {
         .container {
             flex-direction: column;
+        }
+        .timer {
+            font-size: 3rem;
         }
         
     }
@@ -31,7 +39,7 @@
 
 <body>
     <div class="container">
-        <h1 id="timer"></h1>
+        <h1 id="timer" class="timer"></h1>
     </div>
 
     <script src="callbackpain.js"></script>
