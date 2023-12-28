@@ -1,7 +1,10 @@
 .container {
   background: gainsboro;
 }
-
+.text-center {
+  text-align: center;
+  color: rgb(17, 72, 106);
+}
 .card {
   background-image: linear-gradient(to right, rgb(219, 206, 129), rgb(145, 143, 143));
   margin: 20px;
