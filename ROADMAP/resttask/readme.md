@@ -11,28 +11,7 @@ This is a basic website which lists all the major countries and also shows the e
 - fetch() API
 - Bootstrap
 
-### What I learned
 
-```html
-<div class="card-text">
-  <p>Capital: ${objData.capital == undefined ? "N/A" : objData.capital}</p>
-  <p>Region: ${objData.region}</p>
-  <p>Country Code: ${objData.cioc ? objData.cioc : "N/A"}</p>
-  <p>
-    Lat: ${objData.latlng == undefined ? "N/A" : objData.latlng[0]} Long:
-    ${objData.latlng ==undefined ? "N/A" : objData.latlng[1]}
-  </p>
-  <p>Population: ${objData.population}</p>
-</div>
-```
-
-```CSS
-@media screen and (min-width: 768px) and (min-height: 1024px) {
-    .card-img-top {
-        height  : 20vh;
-    }
-}
-```
 ### Links
 
 - Solution URL: https://github.com/kalaikratos/FSD/tree/master/ROADMAP/resttask
