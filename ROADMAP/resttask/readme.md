@@ -8,8 +8,6 @@ This is a basic website which lists all the major countries and also shows the e
 - HTML
 - DOM Manipulation
 - CSS custom properties
-- Flexbox
-- Mobile-first workflow
 - fetch() API
 
 ### What I learned
