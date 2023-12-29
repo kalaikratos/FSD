@@ -9,6 +9,7 @@ This is a basic website which lists all the major countries and also shows the e
 - DOM Manipulation
 - CSS custom properties
 - fetch() API
+- Bootstrap
 
 ### What I learned
 
