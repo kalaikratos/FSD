@@ -42,7 +42,7 @@ const displayData = (objData) => {
                     <p>Region: ${objData.region}</p>
                     <p>Country Code: ${objData.cioc ? objData.cioc : "N/A"}</p>
                     <p>Lat: ${objData.latlng == undefined ? "N/A" : objData.latlng[0]} Long: ${objData.latlng ==undefined ? "N/A" : objData.latlng[1]} </p>
-                    <p>Population: ${objData.population}</p>
+                   
                 </div>
             </div>
             
