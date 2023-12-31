@@ -52,7 +52,7 @@ const displayData = (objData) => {
             </div>
 
             <div id="${objData.area}" class="text-center">
-                <button type="button" onclick="buttonClick(${objData?.latlng?.[0]}, ${objData?.latlng?.[1]}, ${objData.area}, ${objData.population})" class="btn btn-light">Click for Weather</button>
+                <button type="button" onclick="buttonClick(${objData?.latlng?.[0]}, ${objData?.latlng?.[1]}, ${objData.area}, ${objData.population})" class="btn btn-primary">Click for Weather</button>
             </div>
 
         </div>
@@ -89,23 +89,6 @@ async function buttonClick(lat, long, weatherTextId, btnID) {
     }
 }
 
-// Retrieve Latest Weather on Refresh Button - Fn(Latitude, Longitude, Weather Text div ID) 
-async function refreshWeather(refreshLat, refreshLong, weatherTextId) {
-    try {
-        const refreshURL = "https://api.openweathermap.org/data/2.5/weather?lat=" + refreshLat + "&lon="+ refreshLong +"&appid=b1dceca300e7a67e3c4229787c56e63c";
-        let latestWeatherAPIResult = await fetch(refreshURL);
-        let latestWeatherData = await latestWeatherAPIResult.json();
-
-        const iconURL = "http://openweathermap.org/img/w/"+ latestWeatherData.weather[0].icon + ".png";
-   
-        document.getElementById(weatherTextId).innerHTML = `
-        <p class="weather"><b>Weather:</b> ${latestWeatherData.weather[0].main} <b>Temp:</b> ${latestWeatherData.main.temp} <i><img id="wicon" src="${iconURL}" alt="Weather icon"></i> 
-        <button type="button" onclick="refreshWeather(${latestWeatherData.coord.lat}, ${latestWeatherData.coord.lon}, ${weatherTextId})" class="btn bg-transparent"><i class="fa fa-refresh" aria-hidden="true"></i></button></p> 
-    `;
-    } catch(error) {
-        console.log(error);
-    }
-}
 
 // Add created DOM to the body of HTML
 document.body.appendChild(container);
