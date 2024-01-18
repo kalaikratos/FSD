@@ -1,6 +1,6 @@
 section.pricing {
-  background: #f9fafa;
-  background: linear-gradient(to right, #f9fafb, #f8fafb);
+  background: #0b8ac0;
+  
   display: flex;
   flex-wrap: wrap;
   justify-content: center; /* Center the cards horizontally */
@@ -10,6 +10,7 @@ section.pricing {
   border: none;
   border-radius: 1rem;
   transition: all 0.2s;
+  background: white;
   box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
   margin: 1rem; /* Add some margin between the cards */
   padding: 1rem; /* Add some padding inside the cards */
@@ -42,7 +43,7 @@ section.pricing {
 }
 
 .pricing .text-muted {
-  opacity: 0.7;
+  opacity: .2;
 }
 
 .pricing .btn {
@@ -53,12 +54,21 @@ section.pricing {
   padding: 1rem;
   opacity: 0.7;
   transition: all 0.2s;
-  background: rgb(77, 153, 224);
+  background: rgb(2, 159, 238);
+  color:white ;
 }
 
 /* Hover Effects on Card */
 
 @media (min-width: 992px) {
+  .pricing {
+    flex-wrap: nowrap; /* Prevent cards from wrapping on larger screens */
+  }
+
+  .pricing .card {
+    flex: 0 0 30%; /* Adjust the width of the cards */
+  }
+}
   .pricing .card:hover {
     margin-top: -.25rem;
     margin-bottom: .25rem;
@@ -68,7 +78,7 @@ section.pricing {
   .pricing .card:hover .btn {
     opacity: 1; /* Increase the opacity on hover */
   }
-}
+
    
 .card-body{
   background-color: white;
