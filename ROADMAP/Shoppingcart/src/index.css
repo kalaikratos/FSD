@@ -1,70 +1,134 @@
-:root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
-}
-
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
-}
-
 body {
   margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white !important;
   display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    display: flex;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
+.nav{
+  background-color: white !important ;
+  display: flex;
+ 
+}
+
+.css-9npbnl-MuiFormLabel-root-MuiInputLabel-root {
+  font-weight: 700 !important;
+  color: rgb(40, 38, 38) !important;
+  display: flex;
+}
+
+/* for cart  */
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  font-size: 1.21rem !important;
+  gap: 0.5rem;
+  color: #000000 !important;
+  display: flex;
+}
+
+#navbar {
+  display: flex !important;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  display: flex;
+  color: black;
+}
+
+#demo-simple-select-label {
+  font-size: 1.21rem;
+  font-weight: 550 !important;
+  display: flex;
+}
+
+#intro-div {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(31, 31, 31);
+  color: white;
+  height: 15rem;
+  margin: 0 !important;
+  display: flex;
+}
+
+#intro-title {
+  margin-top: 0rem;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+#intro-span {
+  font-size: 1.2rem;
   font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+  display: flex;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
+#cardbox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 5rem 11rem;
+}
+
+#img {
+  padding: 3rem;
+  color: rgb(223, 221, 221);
+  background-color: rgb(158, 158, 158);
+}
+
+#sale {
+  font-size: 0.8rem;
+  position: relative;
+  top: -2.5rem;
+  left: 5.5rem;
+  background-color: black;
+  width: 3.5rem;
+  border-radius: 0.5rem;
+  padding: 0.1rem;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+  #cardbox {
+    margin: 2rem;
+    display: flex;
   }
-  a:hover {
-    color: #747bff;
+  
+  #intro-div {
+    height: 10rem;
+    display: flex;
   }
-  button {
-    background-color: #f9f9f9;
+  
+  #intro-title {
+    font-size: 2rem;
+    display: flex;
+  }
+  
+  #intro-span {
+    font-size: 1rem;
+    display: flex;
   }
 }
+
+#cardaction {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
