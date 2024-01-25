@@ -11,20 +11,22 @@ export function Navbar({cart}) {
     <AppBar position="static" className='nav'>
       <Toolbar>
         <div id="navbar">
-          <Typography variant="h6" ClassName="nav-cont" component="div" sx={{ flexGrow: 1 }}>
-            Shopping Cart
+          <Typography variant="h6" ClassName="nav-cont">
+            
           </Typography>
-          <Typography variant="h6" ClassName="nav-cont" component="div" sx={{ flexGrow: 1 }}>
+          <Typography variant="h6" ClassName="nav-cont" component="div" >
             Home
           </Typography>
-          <Typography variant="h6" ClassName="nav-cont" component="div" sx={{ flexGrow: 1 }}>
+          <Typography variant="h6" ClassName="nav-cont" component="div" >
             About
           </Typography>
-          <InputLabel id="demo-simple-select-label">Shop</InputLabel>
+          <Typography variant="h6" ClassName="nav-cont" component="div" >
+            Contact
+          </Typography>
           
         </div>
         <div>
-        <Button style={{color: "white"}}>
+        <Button style={{color: "black"}}>
           <ShoppingCartIcon />
           Cart ({cart})</Button>
         </div>
