@@ -132,3 +132,45 @@ code {
 
 
 
+/* Styles for tablet screens */
+@media screen and (min-width: 576px) and (max-width: 767px) {
+  #cardbox {
+    margin: 2rem;
+    display: flex;
+  }
+  #intro-div {
+    height: 10rem;
+    display: flex;
+  }
+  #intro-title {
+    font-size: 2rem;
+    display: flex;
+  } 
+  #intro-span {
+    font-size: 1rem;
+    display: flex;
+  }
+
+}
+
+/* Styles for mobile screens */
+@media screen and (max-width: 575px) {
+  #cardbox {
+    margin: 2rem;
+    display: flex;
+  }
+  #intro-div {
+    height: 10rem;
+    display: flex;
+  }
+  #intro-title {
+    font-size: 2rem;
+    display: flex;
+  }
+  #intro-span {
+    font-size: 1rem;
+    display: flex;
+  }
+  
+}
+
