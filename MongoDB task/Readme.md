@@ -1,6 +1,6 @@
 # Day 1 Task in MongoDB
 
-In this Document using mongodb compass applicatiob i have given the Queries that i used to get data,
+In this Document using mongodb compass application i have given the Queries that i used to get data,
 
 ## I Executed 10 Questions in Command
 
