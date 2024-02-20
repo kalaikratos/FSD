@@ -4,7 +4,7 @@ In this Document using mongodb compass application i have given the Queries that
 
 ## I Executed 10 Questions in Command
 
-Here the commands i executed for each Questions separately:
+Here the commands  executed for each Questions separately:
 
 1. Find all the information about each products
 
