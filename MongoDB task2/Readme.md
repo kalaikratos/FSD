@@ -28,7 +28,7 @@ To set up and use the database, you will need:
 
 ### 1. Find all the topics and tasks taught in the month of October:
 
-     ```bash
+   
      db.getCollection('topics').aggregate(
     [
      {
@@ -54,22 +54,22 @@ To set up and use the database, you will need:
       }
     ],
     {maxTimeMS: 60000, allowDiskUse: true }
-  ); ```
+  ); 
 
 ### 2. Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020:
 
-    ```bash
+  
     db.getCollection('company_drives').find({
      driveDate: {
        $gte: '2020-10-15',
        $lte: '2020-10-31'
      }
-    });```
+    });
 
 ### 3. Find all the company drives and students who are appeared for the placement:
 
 
-    ```bash
+   
     db.getCollection('Company_Drives').aggregate(
     [
        {
@@ -92,11 +92,11 @@ To set up and use the database, you will need:
     }
     ],
     { maxTimeMS: 60000, allowDiskUse: true }
-    );```
+    );
 
 ### 4. Find the number of problems solved by the user in codekata:
 
-    ```bash
+
     db.getCollection('codekata').aggregate(
     [
     {
@@ -108,18 +108,18 @@ To set up and use the database, you will need:
     ],
     { maxTimeMS: 60000, allowDiskUse: true }
     );
-```
+
 ### 5. Find all the mentors with who has the mentee's count more than 15:
 
-     ```bash
+ 
      db.getCollection('mentors').aggregate(
      [{ $match: { menteeCount: { $gt: 15 } } }],
      { maxTimeMS: 60000, allowDiskUse: true }
      );
-```
+
 ### 6. Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020:
 
-    ```bash
+    
     db.getCollection('attendence').aggregate(
     [
     {
@@ -164,7 +164,7 @@ To set up and use the database, you will need:
     { maxTimeMS: 60000, allowDiskUse: true }
     );
 
-```
+
 
 
 
