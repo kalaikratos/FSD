@@ -1,0 +1,36 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+   
+    
+    z-index: 2;
+    
+}
+div{
+    color: aliceblue;
+}
+.grid-tem{
+   border: 3px solid rgba(255,255,255,0.2)  ;
+    
+    text-align: center;
+    padding: 20px;
+}
+.header{
+    grid-column:1 /span 3;
+}
+.footer{
+grid-column: 2 /span 3;
+}
+.menu{
+    grid-row:2 /span 2;
+}
+.main{
+grid-row: 2 / span 1;
+}
+.right{
+    grid-row: 2 /span 1;
+}
+html{
+    background-image: url('./wild.jpeg');
+    z-index: 1;
+}

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather App</title>
+    <link rel="stylesheet"  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <style>
+        body {
+            padding: 20px;
+            background-color: rgb(54, 52, 52);
+            display: flex;
+            background-repeat: no-repeat;
+            background-position: center  ;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            border-radius: 20px;
+            padding: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            background-color:#2b8add ;
+            max-width: 500px;
+            height: auto;
+        }
+        
+        .mt-4 {
+            color: #ffffff;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .container.weather-cloudy {
+            background: linear-gradient(to bottom, #e0e0e0, #8f8f8f);
+        }
+
+        .container.weather-rainy {
+            background: linear-gradient(to bottom, #aad4e1, #4299dc);
+        }
+
+        .container.weather-snowy {
+            background: linear-gradient(to bottom, #ffffff, #2b8add);
+        }
+
+        .container.weather-unknown {
+            background: linear-gradient(to bottom, #ffffff, #808080);
+        }
+
+        .container.weather-sunny {
+            background: linear-gradient(to bottom, #dcb05e, #d99216);
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        @media (max-width: 576px) {
+            .container {
+                padding: 10px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+        }
+
+        @media (max-width: 992px) {
+            .container {
+                padding: 20px;
+            }
+        }
+    </style>
+   
+</head>
+<body>
+   
+        <div class="container">
+            <h1 class="mt-4">Weather App</h1>
+            <div class="form-group">
+                <input type="text" id="city" class="form-control" placeholder="Enter city name">
+            </div>
+
+            <div class="text-center">
+                <button onclick="getWeather()" class="btn btn-primary">Get Weather</button>
+            </div>
+
+            <div class="mt-4"></div>
+                <h2>Temperature: <span id="temperature"></span></h2>
+                <h2>Description: <span id="description"></span></h2>
+                <h2>Humidity: <span id="humidity"></span></h2>
+                <img id="icon" src="" alt="Weather Icon">
+            </div>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+            crossorigin="anonymous"></script>
+   <script>
+    function getWeather() {
+        var apiKey = 'b1dceca300e7a67e3c4229787c56e63c';
+        var city = document.getElementById('city').value;
+        var url = 'https://api.openweathermap.org/data/2.5/weather?q=' + city + '&appid=' + apiKey;
+
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                // Process the weather data and update the UI
+                var temperature = data.main.temp;
+                var description = data.weather[0].description;
+                var humidity = data.main.humidity;
+                var icon = data.weather[0].icon;
+
+                document.getElementById('temperature').textContent = temperature + '°F';
+                document.getElementById('description').textContent = description;
+                document.getElementById('humidity').textContent = humidity + '%';
+                document.getElementById('icon').src = 'https://openweathermap.org/img/w/' + icon + '.png';
+
+                // Add weather class to container based on description
+                var container = document.querySelector('.container');
+                container.classList.remove('weather-sunny', 'weather-cloudy', 'weather-rainy', 'weather-snowy', 'weather-unknown');
+
+                if (description.includes('cloud')) {
+                    container.classList.add('weather-cloudy');
+                } else if (description.includes('rain')) {
+                    container.classList.add('weather-rainy');
+                } else if (description.includes('snow')) {
+                    container.classList.add('weather-snowy');
+                } else if (description.includes('sun')) {
+                    container.classList.add('weather-sunny');
+                } else {
+                    container.classList.add('weather-unknown');
+                }
+            })
+            .catch(error => {
+                console.log('Error:', error);
+            });
+    }
+
+    function getWeatherEmoji(description) {
+        var emoji = '';
+
+        if (description.includes('cloud')) {
+            emoji = '☁️';
+        } else if (description.includes('rain')) {
+            emoji = '🌧️';
+        } else if (description.includes('snow')) {
+            emoji = '❄️';
+        } else if (description.includes('sun')) {
+            emoji = '☀️';
+        } else {
+            emoji = '❓';
+        }
+
+        return emoji;
+    }
+
+
+</script>
+</body>
+</html>
