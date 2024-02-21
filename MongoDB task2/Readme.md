@@ -28,11 +28,8 @@ To set up and use the database, you will need:
 
 ### 1. Find all the topics and tasks taught in the month of October:
 
-<<<<<<< HEAD
    
-=======
      
->>>>>>> 4a89d4a357e780334b7768e680f3817595c0b21b
      db.getCollection('topics').aggregate(
     [
      {
@@ -62,11 +59,8 @@ To set up and use the database, you will need:
 
 ### 2. Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020:
 
-<<<<<<< HEAD
   
-=======
     
->>>>>>> 4a89d4a357e780334b7768e680f3817595c0b21b
     db.getCollection('company_drives').find({
      driveDate: {
        $gte: '2020-10-15',
@@ -104,11 +98,8 @@ To set up and use the database, you will need:
 
 ### 4. Find the number of problems solved by the user in codekata:
 
-<<<<<<< HEAD
 
-=======
     
->>>>>>> 4a89d4a357e780334b7768e680f3817595c0b21b
     db.getCollection('codekata').aggregate(
     [
     {
@@ -123,11 +114,8 @@ To set up and use the database, you will need:
 
 ### 5. Find all the mentors with who has the mentee's count more than 15:
 
-<<<<<<< HEAD
  
-=======
     
->>>>>>> 4a89d4a357e780334b7768e680f3817595c0b21b
      db.getCollection('mentors').aggregate(
      [{ $match: { menteeCount: { $gt: 15 } } }],
      { maxTimeMS: 60000, allowDiskUse: true }
@@ -135,11 +123,8 @@ To set up and use the database, you will need:
 
 ### 6. Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020:
 
-<<<<<<< HEAD
     
-=======
    
->>>>>>> 4a89d4a357e780334b7768e680f3817595c0b21b
     db.getCollection('attendence').aggregate(
     [
     {
