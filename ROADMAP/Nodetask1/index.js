@@ -25,14 +25,14 @@ const logEvents = async (currentDateStamp) => {
     "HH-mm-ss"
   )}`;
   try {
-    if (!fs.existsSync(path.join(__dirname, "logs"))) {
-      await fsPromises.mkdir(path.join(__dirname, "logs"));
+    if (!fs.existsSync(path.join(__dirname, "output"))) {
+      await fsPromises.mkdir(path.join(__dirname, "output"));
     }
     await fsPromises.writeFile(
-      path.join(__dirname, "logs", `${dateTime}.txt`),
+      path.join(__dirname, "output", `${dateTime}.txt`),
       currentDateStamp
     );
-    fs.readdir(path.join(__dirname, "logs"), (err, files) => {
+    fs.readdir(path.join(__dirname, "output"), (err, files) => {
       if (err) {
         console.error(err);
       }
