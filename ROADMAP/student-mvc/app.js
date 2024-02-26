@@ -7,11 +7,13 @@ const studentController = require("./controllers/studentController");
 const mentorController = require("./controllers/mentorController");
 
 const app = express();
+
 require("dotenv").config();
- const db_url=process.env.DB_URL;
+
+const dbUrl = process.env.DB_URL;
 
 mongoose
-  .connect(db_url, {
+  .connect(dbUrl, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
@@ -19,17 +21,18 @@ mongoose
   .catch((err) => console.error(err));
 
 app.set("view engine", "ejs");
-app.use(bodyParser.urlencoded({ extended: true }));
-app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true })); 
 app.use(methodOverride("_method"));
-
+app.use(bodyParser.json());
 app.get("/", studentController.getStudents);
-app.get("/students/:id/edit", studentController.getEditForm);
+
 app.post("/students", studentController.createStudent);
-app.put("/students/:id", studentController.updateStudent);
-app.delete("/students/:id", studentController.deleteStudent);
-
 app.post("/mentors", mentorController.createMentor);
+app.post("/students/assign", studentController.assignStudentToMentor);
+app.get("/students/withoutMentor", studentController.getStudentsWithoutMentor);
+app.put("/students/changeMentor", studentController.changeMentor);
+app.get("/students/particularMentor", studentController.getStudentsForParticularMentor);
+app.get("/students/previousMentor", studentController.getPreviousMentor);
 
-const PORT = process.env.PORT ;
-app.listen(PORT, () => console.log(`Server started on port ${PORT}`));
+const PORT = process.env.PORT;
+app.listen(PORT, () => console.log(`Server started at http://localhost:${PORT}`));
