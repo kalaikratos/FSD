@@ -1,0 +1,28 @@
+{
+  "name": "url-shortener-server",
+  "version": "1.0.0",
+  "description": "<br> Task : Develop a URL shortening web Application with Frontend and backend. <br> <br> <strong>Demo : https://karthee-urlshortsapp-000001.herokuapp.com/ </strong> <br> <br> My WorkFlow : https://coggle.it/diagram/YacO1DOIUp_w4J5u/t/url-shortner <br> <br> Features :  <br> <ul> <li>public route (Complete authentication system) </li><br> <li>protected route (to create a shortUrl,get all shortUrls created by particular user)</li><br> <li>redirect route (to redirect to the original URl - using res.redirect()-mtd provided by express)</li><br> </ul> <br>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "rhagavi",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.22",
+    "nanoid": "^3.1.30",
+    "nodemailer": "^6.7.2",
+    "uuid": "^8.3.2",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
