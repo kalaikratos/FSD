@@ -1,0 +1,3906 @@
+[{
+  "_id": {
+    "$oid": "64612661090d2e0eeb93e6b4"
+  },
+  "userID": {
+    "$oid": "645f709e18f0bb7b0c1a803b"
+  },
+  "ProductID": {
+    "$oid": "646125c5090d2e0eeb93e6ae"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2023-05-03",
+  "TotalPurchaseAmount": 36000,
+  "createdAt": {
+    "$date": "2023-05-14T18:20:17.996Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-14T18:20:17.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6494a9cd2351a208742ed1ed"
+  },
+  "userID": {
+    "$oid": "6494a8462351a208742ed181"
+  },
+  "ProductID": {
+    "$oid": "6494a8e62351a208742ed1bb"
+  },
+  "QuantityPurchased": 141243,
+  "PurchaseDate": "2023-06-29",
+  "TotalPurchaseAmount": 8735873,
+  "createdAt": {
+    "$date": "2023-06-22T20:06:37.329Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-22T20:06:37.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645de2b91c1b68bda6ed9223"
+  },
+  "userID": {
+    "$oid": "645de2401c1b68bda6ed91fe"
+  },
+  "ProductID": {
+    "$oid": "645de27b1c1b68bda6ed9210"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2023-05-12",
+  "TotalPurchaseAmount": 100,
+  "createdAt": {
+    "$date": "2023-05-12T06:54:49.398Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-12T06:54:49.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6460e1ddc2fb1b089c1cd506"
+  },
+  "userID": {
+    "$oid": "6460e0f2c2fb1b089c1cd4bd"
+  },
+  "ProductID": {
+    "$oid": "6460e130c2fb1b089c1cd4cf"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2023-05-01",
+  "TotalPurchaseAmount": 600,
+  "createdAt": {
+    "$date": "2023-05-14T13:27:57.455Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-14T13:27:57.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649aaa3fda31b934cdfaa055"
+  },
+  "userID": {
+    "$oid": "64994f93ddfbafb8af5bb9f6"
+  },
+  "ProductID": {
+    "$oid": "649950d7ddfbafb8af5bba42"
+  },
+  "QuantityPurchased": 600,
+  "PurchaseDate": "2023-06-27",
+  "TotalPurchaseAmount": 430,
+  "createdAt": {
+    "$date": "2023-06-27T09:22:07.690Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-27T09:22:07.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64612662090d2e0eeb93e6bc"
+  },
+  "userID": {
+    "$oid": "645f709e18f0bb7b0c1a803b"
+  },
+  "ProductID": {
+    "$oid": "646125c5090d2e0eeb93e6ae"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2023-05-03",
+  "TotalPurchaseAmount": 36000,
+  "createdAt": {
+    "$date": "2023-05-14T18:20:18.319Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-14T18:20:18.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6474097450d613d40633eedf"
+  },
+  "userID": {
+    "$oid": "647407fc50d613d40633ee50"
+  },
+  "ProductID": {
+    "$oid": "6474094d50d613d40633eed7"
+  },
+  "QuantityPurchased": 3,
+  "PurchaseDate": "2023-05-30",
+  "TotalPurchaseAmount": 7000,
+  "createdAt": {
+    "$date": "2023-05-29T02:09:56.379Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T02:09:56.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64740bee50d613d40633efde"
+  },
+  "userID": {
+    "$oid": "647407fc50d613d40633ee50"
+  },
+  "ProductID": {
+    "$oid": "64740ac850d613d40633ef83"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2022-12-02",
+  "TotalPurchaseAmount": 1,
+  "createdAt": {
+    "$date": "2023-05-29T02:20:30.091Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T02:20:30.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6494a9cc2351a208742ed1e9"
+  },
+  "userID": {
+    "$oid": "6494a8462351a208742ed181"
+  },
+  "ProductID": {
+    "$oid": "6494a8e62351a208742ed1bb"
+  },
+  "QuantityPurchased": 141243,
+  "PurchaseDate": "2023-06-29",
+  "TotalPurchaseAmount": 8735873,
+  "createdAt": {
+    "$date": "2023-06-22T20:06:36.898Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-22T20:06:36.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649c6b76a80a881dbeb05b6d"
+  },
+  "userID": {
+    "$oid": "649c6707a80a881dbeb05adc"
+  },
+  "ProductID": {
+    "$oid": "649c69b7a80a881dbeb05b38"
+  },
+  "QuantityPurchased": 5,
+  "PurchaseDate": "2023-06-06",
+  "TotalPurchaseAmount": 5,
+  "createdAt": {
+    "$date": "2023-06-28T17:18:46.962Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T17:18:46.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6494125d6e95700de0eb47fb"
+  },
+  "userID": {
+    "$oid": "649410d46e95700de0eb47ad"
+  },
+  "ProductID": {
+    "$oid": "649412136e95700de0eb47eb"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2023-06-22",
+  "TotalPurchaseAmount": 3000,
+  "createdAt": {
+    "$date": "2023-06-22T09:20:29.579Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-22T09:20:29.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6460e161c2fb1b089c1cd4d7"
+  },
+  "userID": {
+    "$oid": "6460e0f2c2fb1b089c1cd4bd"
+  },
+  "ProductID": {
+    "$oid": "6460e130c2fb1b089c1cd4cf"
+  },
+  "QuantityPurchased": 600,
+  "PurchaseDate": "2023-05-14",
+  "TotalPurchaseAmount": 100,
+  "createdAt": {
+    "$date": "2023-05-14T13:25:53.757Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-14T13:25:53.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6474fd7f50d613d40633f04c"
+  },
+  "userID": {
+    "$oid": "647407fc50d613d40633ee50"
+  },
+  "ProductID": {
+    "$oid": "6474094d50d613d40633eed7"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2023-05-31",
+  "TotalPurchaseAmount": 4.447,
+  "createdAt": {
+    "$date": "2023-05-29T19:31:11.507Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T19:31:11.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645de2a71c1b68bda6ed921c"
+  },
+  "userID": {
+    "$oid": "645de2401c1b68bda6ed91fe"
+  },
+  "ProductID": {
+    "$oid": "645de28c1c1b68bda6ed9214"
+  },
+  "QuantityPurchased": 50,
+  "PurchaseDate": "2023-05-12",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2023-05-12T06:54:31.763Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-12T06:54:31.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64612663090d2e0eeb93e6c8"
+  },
+  "userID": {
+    "$oid": "645f709e18f0bb7b0c1a803b"
+  },
+  "ProductID": {
+    "$oid": "646125c5090d2e0eeb93e6ae"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2023-05-03",
+  "TotalPurchaseAmount": 36000,
+  "createdAt": {
+    "$date": "2023-05-14T18:20:19.024Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-14T18:20:19.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648ec6e880bf3dcd34eb9761"
+  },
+  "userID": {
+    "$oid": "648ec68b80bf3dcd34eb972c"
+  },
+  "ProductID": {
+    "$oid": "648ec6b780bf3dcd34eb9741"
+  },
+  "QuantityPurchased": 22,
+  "PurchaseDate": "2023-06-18",
+  "TotalPurchaseAmount": 100,
+  "createdAt": {
+    "$date": "2023-06-18T08:57:12.725Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-18T08:57:12.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648ef7bf073c7b675369d920"
+  },
+  "userID": {
+    "$oid": "648ef6e2073c7b675369d892"
+  },
+  "ProductID": {
+    "$oid": "648ef7b0073c7b675369d918"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2023-06-01",
+  "TotalPurchaseAmount": 2520,
+  "createdAt": {
+    "$date": "2023-06-18T12:25:35.875Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-18T12:25:35.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64612662090d2e0eeb93e6c4"
+  },
+  "userID": {
+    "$oid": "645f709e18f0bb7b0c1a803b"
+  },
+  "ProductID": {
+    "$oid": "646125c5090d2e0eeb93e6ae"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2023-05-03",
+  "TotalPurchaseAmount": 36000,
+  "createdAt": {
+    "$date": "2023-05-14T18:20:18.690Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-14T18:20:18.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6475019350d613d40633f0fd"
+  },
+  "userID": {
+    "$oid": "647407fc50d613d40633ee50"
+  },
+  "ProductID": {
+    "$oid": "6475009950d613d40633f0a7"
+  },
+  "QuantityPurchased": 99,
+  "PurchaseDate": "2023-05-29",
+  "TotalPurchaseAmount": 99,
+  "createdAt": {
+    "$date": "2023-05-29T19:48:35.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T19:48:35.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649411806e95700de0eb47ce"
+  },
+  "userID": {
+    "$oid": "649410d46e95700de0eb47ad"
+  },
+  "ProductID": {
+    "$oid": "6494115d6e95700de0eb47c7"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2023-06-23",
+  "TotalPurchaseAmount": 10,
+  "createdAt": {
+    "$date": "2023-06-22T09:16:48.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-22T09:16:48.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6496c1983bdf8bd9089b0686"
+  },
+  "userID": {
+    "$oid": "6496c03a3bdf8bd9089b0665"
+  },
+  "ProductID": {
+    "$oid": "6496c1703bdf8bd9089b067e"
+  },
+  "QuantityPurchased": 569,
+  "PurchaseDate": "2023-06-16",
+  "TotalPurchaseAmount": 45217,
+  "createdAt": {
+    "$date": "2023-06-24T10:12:40.446Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-24T10:12:40.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649e5c6c1ba6533256c6a562"
+  },
+  "userID": {
+    "$oid": "649cd7b103cd3ce9b8d58c7d"
+  },
+  "ProductID": {
+    "$oid": "649d6e901688a8eab827c815"
+  },
+  "QuantityPurchased": 3,
+  "PurchaseDate": "2023-06-30",
+  "TotalPurchaseAmount": 10,
+  "createdAt": {
+    "$date": "2023-06-30T04:39:08.181Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T04:39:08.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6460e21cc2fb1b089c1cd525"
+  },
+  "userID": {
+    "$oid": "6460e0f2c2fb1b089c1cd4bd"
+  },
+  "ProductID": {
+    "$oid": "6460e202c2fb1b089c1cd51b"
+  },
+  "QuantityPurchased": 200,
+  "PurchaseDate": "2023-05-03",
+  "TotalPurchaseAmount": 1000,
+  "createdAt": {
+    "$date": "2023-05-14T13:29:00.762Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-14T13:29:00.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64882709b8c2f214b6df7b3b"
+  },
+  "userID": {
+    "$oid": "64881c44b8c2f214b6df798d"
+  },
+  "ProductID": {
+    "$oid": "64881c91b8c2f214b6df79b0"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2023-06-14",
+  "TotalPurchaseAmount": 7,
+  "createdAt": {
+    "$date": "2023-06-13T08:21:29.804Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T08:21:29.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64923434b8df6db54f534e1a"
+  },
+  "userID": {
+    "$oid": "64923371b8df6db54f534ddb"
+  },
+  "ProductID": {
+    "$oid": "649233ddb8df6db54f534e00"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2023-06-21",
+  "TotalPurchaseAmount": 19,
+  "createdAt": {
+    "$date": "2023-06-20T23:20:20.021Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-20T23:20:20.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646c50dd447ff0cfd29dafbd"
+  },
+  "userID": {
+    "$oid": "646b957ae11b8a5e9c1be2a1"
+  },
+  "ProductID": {
+    "$oid": "646c509b447ff0cfd29dafa3"
+  },
+  "QuantityPurchased": 10,
+  "PurchaseDate": "2023-05-22",
+  "TotalPurchaseAmount": 100,
+  "createdAt": {
+    "$date": "2023-05-23T05:36:29.778Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-23T05:36:29.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649aa979da31b934cdfaa01e"
+  },
+  "userID": {
+    "$oid": "64994f93ddfbafb8af5bb9f6"
+  },
+  "ProductID": {
+    "$oid": "649950d7ddfbafb8af5bba42"
+  },
+  "QuantityPurchased": 5,
+  "PurchaseDate": "2023-06-27",
+  "TotalPurchaseAmount": 430,
+  "createdAt": {
+    "$date": "2023-06-27T09:18:49.273Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-27T09:18:49.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649fffcdade00f9290dbcc21"
+  },
+  "userID": {
+    "$oid": "649ffdf3ade00f9290dbcbe7"
+  },
+  "ProductID": {
+    "$oid": "649ffe4bade00f9290dbcbf2"
+  },
+  "QuantityPurchased": 123,
+  "PurchaseDate": "2023-07-14",
+  "TotalPurchaseAmount": 122,
+  "createdAt": {
+    "$date": "2023-07-01T10:28:29.996Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-01T10:28:29.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64740bc950d613d40633efd3"
+  },
+  "userID": {
+    "$oid": "647407fc50d613d40633ee50"
+  },
+  "ProductID": {
+    "$oid": "64740b0150d613d40633ef87"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2023-04-01",
+  "TotalPurchaseAmount": 1111,
+  "createdAt": {
+    "$date": "2023-05-29T02:19:53.365Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T02:19:53.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64612662090d2e0eeb93e6c0"
+  },
+  "userID": {
+    "$oid": "645f709e18f0bb7b0c1a803b"
+  },
+  "ProductID": {
+    "$oid": "646125c5090d2e0eeb93e6ae"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2023-05-03",
+  "TotalPurchaseAmount": 36000,
+  "createdAt": {
+    "$date": "2023-05-14T18:20:18.515Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-14T18:20:18.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649c69cca80a881dbeb05b3e"
+  },
+  "userID": {
+    "$oid": "649c6707a80a881dbeb05adc"
+  },
+  "ProductID": {
+    "$oid": "649c69b7a80a881dbeb05b38"
+  },
+  "QuantityPurchased": 99,
+  "PurchaseDate": "2023-06-13",
+  "TotalPurchaseAmount": 5,
+  "createdAt": {
+    "$date": "2023-06-28T17:11:40.970Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T17:11:40.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649aa924da31b934cdfa9fdb"
+  },
+  "userID": {
+    "$oid": "64994f93ddfbafb8af5bb9f6"
+  },
+  "ProductID": {
+    "$oid": "6499523dddfbafb8af5bbad4"
+  },
+  "QuantityPurchased": 500,
+  "PurchaseDate": "2023-06-21",
+  "TotalPurchaseAmount": 200,
+  "createdAt": {
+    "$date": "2023-06-27T09:17:24.264Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-27T09:17:24.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64612662090d2e0eeb93e6b8"
+  },
+  "userID": {
+    "$oid": "645f709e18f0bb7b0c1a803b"
+  },
+  "ProductID": {
+    "$oid": "646125c5090d2e0eeb93e6ae"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2023-05-03",
+  "TotalPurchaseAmount": 36000,
+  "createdAt": {
+    "$date": "2023-05-14T18:20:18.102Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-14T18:20:18.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6494a9cc2351a208742ed1e5"
+  },
+  "userID": {
+    "$oid": "6494a8462351a208742ed181"
+  },
+  "ProductID": {
+    "$oid": "6494a8e62351a208742ed1bb"
+  },
+  "QuantityPurchased": 141243,
+  "PurchaseDate": "2023-06-29",
+  "TotalPurchaseAmount": 8735873,
+  "createdAt": {
+    "$date": "2023-06-22T20:06:36.552Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-22T20:06:36.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649e79459b71836d7971342b"
+  },
+  "userID": {
+    "$oid": "649cd7b103cd3ce9b8d58c7d"
+  },
+  "ProductID": {
+    "$oid": "649e791f9b71836d7971341b"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2023-06-30",
+  "TotalPurchaseAmount": 10,
+  "createdAt": {
+    "$date": "2023-06-30T06:42:13.238Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T06:42:13.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649c21536606a9356ce66d9b"
+  },
+  "userID": {
+    "$oid": "64994f93ddfbafb8af5bb9f6"
+  },
+  "ProductID": {
+    "$oid": "649c212f6606a9356ce66d91"
+  },
+  "QuantityPurchased": 10,
+  "PurchaseDate": "2023-06-28",
+  "TotalPurchaseAmount": 250,
+  "createdAt": {
+    "$date": "2023-06-28T12:02:27.201Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T12:02:27.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649e79459b71836d79713429"
+  },
+  "userID": {
+    "$oid": "649cd7b103cd3ce9b8d58c7d"
+  },
+  "ProductID": {
+    "$oid": "649e791f9b71836d7971341b"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2023-06-30",
+  "TotalPurchaseAmount": 10,
+  "createdAt": {
+    "$date": "2023-06-30T06:42:13.236Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T06:42:13.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647fefc76f23bd62f33ecb41"
+  },
+  "userID": {
+    "$oid": "647fef7d6f23bd62f33ecb14"
+  },
+  "ProductID": {
+    "$oid": "647fefaa6f23bd62f33ecb39"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2023-06-07",
+  "TotalPurchaseAmount": 150,
+  "createdAt": {
+    "$date": "2023-06-07T02:47:35.995Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T02:47:35.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64882568b8c2f214b6df7aef"
+  },
+  "userID": {
+    "$oid": "64881c44b8c2f214b6df798d"
+  },
+  "ProductID": {
+    "$oid": "64881d15b8c2f214b6df79b4"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2023-06-14",
+  "TotalPurchaseAmount": 11,
+  "createdAt": {
+    "$date": "2023-06-13T08:14:32.442Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T08:14:32.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64882607b8c2f214b6df7b12"
+  },
+  "userID": {
+    "$oid": "64881c44b8c2f214b6df798d"
+  },
+  "ProductID": {
+    "$oid": "648825f6b8c2f214b6df7afa"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2023-06-15",
+  "TotalPurchaseAmount": 4,
+  "createdAt": {
+    "$date": "2023-06-13T08:17:11.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T08:17:11.216Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6495df8bf600f8f5dec55239"
+  },
+  "userID": {
+    "$oid": "6495df1ef600f8f5dec551f9"
+  },
+  "ProductID": {
+    "$oid": "6495df6ff600f8f5dec55221"
+  },
+  "QuantityPurchased": 200,
+  "PurchaseDate": "2023-06-22",
+  "TotalPurchaseAmount": 500,
+  "createdAt": {
+    "$date": "2023-06-23T18:08:11.707Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-23T18:08:11.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6499a0a29f5bfce897650b63"
+  },
+  "userID": {
+    "$oid": "64994f93ddfbafb8af5bb9f6"
+  },
+  "ProductID": {
+    "$oid": "64999f789f5bfce897650ae8"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2023-06-26",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2023-06-26T14:28:50.127Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-26T14:28:50.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649e3f300bf50cc27408a220"
+  },
+  "userID": {
+    "$oid": "649e3e1b0bf50cc27408a205"
+  },
+  "ProductID": {
+    "$oid": "649e3ee70bf50cc27408a219"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2023-06-29",
+  "TotalPurchaseAmount": 789,
+  "createdAt": {
+    "$date": "2023-06-30T02:34:24.841Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T02:34:24.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba7dd9bb8789055b9e3fbd"
+  },
+  "userID": {
+    "$oid": "65ba7d26bb8789055b9e3f82"
+  },
+  "ProductID": {
+    "$oid": "65ba7db2bb8789055b9e3fb1"
+  },
+  "QuantityPurchased": 54545,
+  "PurchaseDate": "2024-01-30",
+  "TotalPurchaseAmount": 788989,
+  "createdAt": {
+    "$date": "2024-01-31T17:05:29.970Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-31T17:05:29.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba814a70417536c04055ef"
+  },
+  "userID": {
+    "$oid": "65ba80d170417536c04055ac"
+  },
+  "ProductID": {
+    "$oid": "65ba813970417536c04055e7"
+  },
+  "QuantityPurchased": 667,
+  "PurchaseDate": "2024-01-31",
+  "TotalPurchaseAmount": 545,
+  "createdAt": {
+    "$date": "2024-01-31T17:20:10.997Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-31T17:20:10.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bc83e25e5aeee3b2313e16"
+  },
+  "userID": {
+    "$oid": "65bb8b238aa89ef88946abf4"
+  },
+  "ProductID": {
+    "$oid": "65bc83c95e5aeee3b2313e10"
+  },
+  "QuantityPurchased": 44545,
+  "PurchaseDate": "2024-02-09",
+  "TotalPurchaseAmount": 78787878,
+  "createdAt": {
+    "$date": "2024-02-02T05:55:46.554Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T05:55:46.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bc83e25e5aeee3b2313e1a"
+  },
+  "userID": {
+    "$oid": "65bb8b238aa89ef88946abf4"
+  },
+  "ProductID": {
+    "$oid": "65bc83c95e5aeee3b2313e10"
+  },
+  "QuantityPurchased": 44545,
+  "PurchaseDate": "2024-02-09",
+  "TotalPurchaseAmount": 78787878,
+  "createdAt": {
+    "$date": "2024-02-02T05:55:46.837Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T05:55:46.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bc84185e5aeee3b2313e2a"
+  },
+  "userID": {
+    "$oid": "65bb8b238aa89ef88946abf4"
+  },
+  "ProductID": {
+    "$oid": "65bc84055e5aeee3b2313e23"
+  },
+  "QuantityPurchased": 787,
+  "PurchaseDate": "2024-02-09",
+  "TotalPurchaseAmount": 12222,
+  "createdAt": {
+    "$date": "2024-02-02T05:56:40.931Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T05:56:40.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd65a1582f76ecf241de17"
+  },
+  "userID": {
+    "$oid": "65bd6455582f76ecf241ddf6"
+  },
+  "ProductID": {
+    "$oid": "65bd6563582f76ecf241de10"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2023-06-15",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2024-02-02T21:58:57.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T21:58:57.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be62db81ce2eb08ff54be9"
+  },
+  "userID": {
+    "$oid": "65be5bf686af1959b36bb9b1"
+  },
+  "ProductID": {
+    "$oid": "65be62ac81ce2eb08ff54bde"
+  },
+  "QuantityPurchased": 234,
+  "PurchaseDate": "2024-02-03",
+  "TotalPurchaseAmount": 2333,
+  "createdAt": {
+    "$date": "2024-02-03T15:59:23.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-03T15:59:23.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf59af47c366a9b710ed83"
+  },
+  "userID": {
+    "$oid": "65bf573647c366a9b710ecd5"
+  },
+  "ProductID": {
+    "$oid": "65bf596147c366a9b710ed6e"
+  },
+  "QuantityPurchased": 5,
+  "PurchaseDate": "2024-02-02",
+  "TotalPurchaseAmount": 25000,
+  "createdAt": {
+    "$date": "2024-02-04T09:32:31.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-04T09:32:31.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf643186240215b6e279e6"
+  },
+  "userID": {
+    "$oid": "65bf6266fb9cdb93fa5e8bf8"
+  },
+  "ProductID": {
+    "$oid": "65bf642486240215b6e279de"
+  },
+  "QuantityPurchased": 3,
+  "PurchaseDate": "2024-02-05",
+  "TotalPurchaseAmount": 3434,
+  "createdAt": {
+    "$date": "2024-02-04T10:17:21.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-04T10:17:21.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c06c03e3165064938995e4"
+  },
+  "userID": {
+    "$oid": "65c06bd6e3165064938995d3"
+  },
+  "ProductID": {
+    "$oid": "65c06bf3e3165064938995de"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2024-02-05",
+  "TotalPurchaseAmount": 22,
+  "createdAt": {
+    "$date": "2024-02-05T05:02:59.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-05T05:02:59.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c12ad715ebaa01ea874267"
+  },
+  "userID": {
+    "$oid": "65c1289d15ebaa01ea874241"
+  },
+  "ProductID": {
+    "$oid": "65c1294515ebaa01ea874255"
+  },
+  "QuantityPurchased": 50,
+  "PurchaseDate": "2024-02-05",
+  "TotalPurchaseAmount": 50000,
+  "createdAt": {
+    "$date": "2024-02-05T18:37:11.027Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-05T18:37:11.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c1859de6a04521a438f44a"
+  },
+  "userID": {
+    "$oid": "65c1852ce6a04521a438f426"
+  },
+  "ProductID": {
+    "$oid": "65c18579e6a04521a438f444"
+  },
+  "QuantityPurchased": 50,
+  "PurchaseDate": "2024-02-05",
+  "TotalPurchaseAmount": 111,
+  "createdAt": {
+    "$date": "2024-02-06T01:04:29.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T01:04:29.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c20454fcbd28b4279dbb1c"
+  },
+  "userID": {
+    "$oid": "65c1f050a436f41b3af44411"
+  },
+  "ProductID": {
+    "$oid": "65c1f084a436f41b3af4441b"
+  },
+  "QuantityPurchased": 78,
+  "PurchaseDate": "2024-02-14",
+  "TotalPurchaseAmount": 78954,
+  "createdAt": {
+    "$date": "2024-02-06T10:05:08.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T10:05:08.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c34c8b0ac80e200d819199"
+  },
+  "userID": {
+    "$oid": "65c34bc50ac80e200d81913c"
+  },
+  "ProductID": {
+    "$oid": "65c34c070ac80e200d819171"
+  },
+  "QuantityPurchased": 150,
+  "PurchaseDate": "2024-02-07",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2024-02-07T09:25:31.353Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-07T09:25:31.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c4cb150617ffa7b52606cd"
+  },
+  "userID": {
+    "$oid": "65c48ef4aa1d6074ff551eda"
+  },
+  "ProductID": {
+    "$oid": "65c4caa80617ffa7b52606b7"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-02-08",
+  "TotalPurchaseAmount": 33,
+  "createdAt": {
+    "$date": "2024-02-08T12:37:41.253Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-08T12:37:41.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5eb2fc561e29cb100e4fc"
+  },
+  "userID": {
+    "$oid": "65c5eaebc561e29cb100e4de"
+  },
+  "ProductID": {
+    "$oid": "65c5eb18c561e29cb100e4f3"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2024-02-12",
+  "TotalPurchaseAmount": 1500,
+  "createdAt": {
+    "$date": "2024-02-09T09:06:55.791Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-09T09:06:55.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c7116ce986e2b9132b8b5c"
+  },
+  "userID": {
+    "$oid": "65c706ca381c9353a881bc94"
+  },
+  "ProductID": {
+    "$oid": "65c71134e986e2b9132b8b45"
+  },
+  "QuantityPurchased": 99,
+  "PurchaseDate": "2024-02-10",
+  "TotalPurchaseAmount": 11,
+  "createdAt": {
+    "$date": "2024-02-10T06:02:20.457Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T06:02:20.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c75ad7e2b52bc3fc003a47"
+  },
+  "userID": {
+    "$oid": "65c759eae2b52bc3fc0039ea"
+  },
+  "ProductID": {
+    "$oid": "65c75a67e2b52bc3fc003a1a"
+  },
+  "QuantityPurchased": 5,
+  "PurchaseDate": "2024-02-10",
+  "TotalPurchaseAmount": 260,
+  "createdAt": {
+    "$date": "2024-02-10T11:15:35.136Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T11:15:35.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c77bf503c6891ec36bf28f"
+  },
+  "userID": {
+    "$oid": "65c77b6f03c6891ec36bf24a"
+  },
+  "ProductID": {
+    "$oid": "65c77bd303c6891ec36bf287"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-02-10",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2024-02-10T13:36:53.585Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T13:36:53.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c7cb62a4e3aafe0053d286"
+  },
+  "userID": {
+    "$oid": "65c7caeea4e3aafe0053d274"
+  },
+  "ProductID": {
+    "$oid": "65c7cb33a4e3aafe0053d280"
+  },
+  "QuantityPurchased": 500,
+  "PurchaseDate": "2024-02-10",
+  "TotalPurchaseAmount": 12,
+  "createdAt": {
+    "$date": "2024-02-10T19:15:46.049Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T19:15:46.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c80f5899592f02c7612572"
+  },
+  "userID": {
+    "$oid": "65c80dad74703a082b6ea58d"
+  },
+  "ProductID": {
+    "$oid": "65c80df174703a082b6ea5c8"
+  },
+  "QuantityPurchased": 5,
+  "PurchaseDate": "2024-02-10",
+  "TotalPurchaseAmount": 0,
+  "createdAt": {
+    "$date": "2024-02-11T00:05:44.539Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T00:05:44.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c811f9b6d4195d1715e001"
+  },
+  "userID": {
+    "$oid": "65c80dad74703a082b6ea58d"
+  },
+  "ProductID": {
+    "$oid": "65c80f87a300ab0f784d4037"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-02-17",
+  "TotalPurchaseAmount": 0,
+  "createdAt": {
+    "$date": "2024-02-11T00:16:57.658Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T00:16:57.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c9bdf3f6a3caa515753446"
+  },
+  "userID": {
+    "$oid": "65c9bd89f6a3caa515753435"
+  },
+  "ProductID": {
+    "$oid": "65c9bdc0f6a3caa515753440"
+  },
+  "QuantityPurchased": 15,
+  "PurchaseDate": "2024-02-12",
+  "TotalPurchaseAmount": 120,
+  "createdAt": {
+    "$date": "2024-02-12T06:42:59.857Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-12T06:42:59.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb6223ba11a7abe38622ca"
+  },
+  "userID": {
+    "$oid": "65cb5767c939787ad92564fb"
+  },
+  "ProductID": {
+    "$oid": "65cb6202ba11a7abe38622c2"
+  },
+  "QuantityPurchased": 55,
+  "PurchaseDate": "2024-01-30",
+  "TotalPurchaseAmount": 66,
+  "createdAt": {
+    "$date": "2024-02-13T12:35:47.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T12:35:47.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb7b239f426466b3855b77"
+  },
+  "userID": {
+    "$oid": "65cb7a699f426466b3855b28"
+  },
+  "ProductID": {
+    "$oid": "65cb7b089f426466b3855b71"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-02-14",
+  "TotalPurchaseAmount": 1,
+  "createdAt": {
+    "$date": "2024-02-13T14:22:27.836Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T14:22:27.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc65f5fc02dc699b06283c"
+  },
+  "userID": {
+    "$oid": "65cc65a8fc02dc699b06282b"
+  },
+  "ProductID": {
+    "$oid": "65cc65d1fc02dc699b062835"
+  },
+  "QuantityPurchased": 9999,
+  "PurchaseDate": "2024-01-31",
+  "TotalPurchaseAmount": 2222,
+  "createdAt": {
+    "$date": "2024-02-14T07:04:21.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T07:04:21.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ced2635086396d2d1e5da9"
+  },
+  "userID": {
+    "$oid": "6465a37f8858ca0152be8809"
+  },
+  "ProductID": {
+    "$oid": "65cb1f5baeb82b414d257159"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2024-02-16",
+  "TotalPurchaseAmount": 1,
+  "createdAt": {
+    "$date": "2024-02-16T03:11:31.480Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-16T03:11:31.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ced2635086396d2d1e5dad"
+  },
+  "userID": {
+    "$oid": "6465a37f8858ca0152be8809"
+  },
+  "ProductID": {
+    "$oid": "65cb1f5baeb82b414d257159"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2024-02-16",
+  "TotalPurchaseAmount": 1,
+  "createdAt": {
+    "$date": "2024-02-16T03:11:31.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-16T03:11:31.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cf3d067e6dfed9471e2d08"
+  },
+  "userID": {
+    "$oid": "65cf3b877e6dfed9471e2c9b"
+  },
+  "ProductID": {
+    "$oid": "65cf3c417e6dfed9471e2cc9"
+  },
+  "QuantityPurchased": 200,
+  "PurchaseDate": "2024-02-16",
+  "TotalPurchaseAmount": 50,
+  "createdAt": {
+    "$date": "2024-02-16T10:46:30.675Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-16T10:46:30.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d08821541ee4566b2166b0"
+  },
+  "userID": {
+    "$oid": "65d08748541ee4566b216683"
+  },
+  "ProductID": {
+    "$oid": "65d08811541ee4566b2166aa"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-02-17",
+  "TotalPurchaseAmount": 1231231,
+  "createdAt": {
+    "$date": "2024-02-17T10:19:13.811Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-17T10:19:13.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d18c7ec0bcb61f57ab040b"
+  },
+  "userID": {
+    "$oid": "65d18c40c0bcb61f57ab03f6"
+  },
+  "ProductID": {
+    "$oid": "65d18c6cc0bcb61f57ab0405"
+  },
+  "QuantityPurchased": 12,
+  "PurchaseDate": "2024-02-18",
+  "TotalPurchaseAmount": 255,
+  "createdAt": {
+    "$date": "2024-02-18T04:50:06.493Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-18T04:50:06.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d3a8e929180ad0af242327"
+  },
+  "userID": {
+    "$oid": "65d3a74b29180ad0af2422e5"
+  },
+  "ProductID": {
+    "$oid": "65d3a8ba29180ad0af24231c"
+  },
+  "QuantityPurchased": 10,
+  "PurchaseDate": "2024-02-23",
+  "TotalPurchaseAmount": 10000,
+  "createdAt": {
+    "$date": "2024-02-19T19:15:53.264Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T19:15:53.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d40356597737c1c07a9b66"
+  },
+  "userID": {
+    "$oid": "65d40259597737c1c07a9b43"
+  },
+  "ProductID": {
+    "$oid": "65d4031b597737c1c07a9b5e"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2024-02-20",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2024-02-20T01:41:42.955Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-20T01:41:42.955Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4036a597737c1c07a9b6d"
+  },
+  "userID": {
+    "$oid": "65d40259597737c1c07a9b43"
+  },
+  "ProductID": {
+    "$oid": "65d402ff597737c1c07a9b5a"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2024-02-20",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2024-02-20T01:42:02.874Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-20T01:42:02.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8ab1fa5c3d92d769fb14a"
+  },
+  "userID": {
+    "$oid": "65d8aa93a5c3d92d769fb138"
+  },
+  "ProductID": {
+    "$oid": "65d8aaf3a5c3d92d769fb144"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-02-23",
+  "TotalPurchaseAmount": 20,
+  "createdAt": {
+    "$date": "2024-02-23T14:26:39.802Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-23T14:26:39.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d98f910fb390f54bb39c64"
+  },
+  "userID": {
+    "$oid": "65d98ebb0fb390f54bb39c4c"
+  },
+  "ProductID": {
+    "$oid": "65d98f460fb390f54bb39c5e"
+  },
+  "QuantityPurchased": 6,
+  "PurchaseDate": "2024-02-13",
+  "TotalPurchaseAmount": 72072,
+  "createdAt": {
+    "$date": "2024-02-24T06:41:21.085Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-24T06:41:21.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65db559d644bd7ff6fee5a7a"
+  },
+  "userID": {
+    "$oid": "65db5520644bd7ff6fee5a53"
+  },
+  "ProductID": {
+    "$oid": "65db556e644bd7ff6fee5a73"
+  },
+  "QuantityPurchased": 12,
+  "PurchaseDate": "2024-02-25",
+  "TotalPurchaseAmount": 199,
+  "createdAt": {
+    "$date": "2024-02-25T14:58:37.977Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-25T14:58:37.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc63c58fef4801feb72206"
+  },
+  "userID": {
+    "$oid": "65dc62a18fef4801feb721e8"
+  },
+  "ProductID": {
+    "$oid": "65dc63a68fef4801feb72200"
+  },
+  "QuantityPurchased": 99,
+  "PurchaseDate": "2024-02-27",
+  "TotalPurchaseAmount": 800,
+  "createdAt": {
+    "$date": "2024-02-26T10:11:17.446Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T10:11:17.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcc2aed0f7ef415c562fe6"
+  },
+  "userID": {
+    "$oid": "65dcc252d0f7ef415c562fc7"
+  },
+  "ProductID": {
+    "$oid": "65dcc29bd0f7ef415c562fe0"
+  },
+  "QuantityPurchased": 3,
+  "PurchaseDate": "2024-02-05",
+  "TotalPurchaseAmount": 6,
+  "createdAt": {
+    "$date": "2024-02-26T16:56:14.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T16:56:14.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dcd51067212f6d67a86b11"
+  },
+  "userID": {
+    "$oid": "65d767e6ca78d480735c84db"
+  },
+  "ProductID": {
+    "$oid": "65d8a34c316cd383231b972b"
+  },
+  "QuantityPurchased": 15,
+  "PurchaseDate": "2024-02-20",
+  "TotalPurchaseAmount": 20,
+  "createdAt": {
+    "$date": "2024-02-26T18:14:40.334Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T18:14:40.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd84472474289157c860d8"
+  },
+  "userID": {
+    "$oid": "65dd7c8f3d7d6314ed41e1bb"
+  },
+  "ProductID": {
+    "$oid": "65dd83ec2474289157c860d2"
+  },
+  "QuantityPurchased": 1000,
+  "PurchaseDate": "2024-02-26",
+  "TotalPurchaseAmount": 100000,
+  "createdAt": {
+    "$date": "2024-02-27T06:42:15.648Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T06:42:15.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ddb71cddca5d04e5728ffc"
+  },
+  "userID": {
+    "$oid": "65ddb671ddca5d04e5728fdc"
+  },
+  "ProductID": {
+    "$oid": "65ddb6f8ddca5d04e5728ff6"
+  },
+  "QuantityPurchased": 10,
+  "PurchaseDate": "2024-02-27",
+  "TotalPurchaseAmount": 1000,
+  "createdAt": {
+    "$date": "2024-02-27T10:19:08.991Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T10:19:08.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65de9d3a8f18f6b2014472d2"
+  },
+  "userID": {
+    "$oid": "65de9b878f18f6b20144725f"
+  },
+  "ProductID": {
+    "$oid": "65de9d158f18f6b2014472c7"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-02-06",
+  "TotalPurchaseAmount": 1000,
+  "createdAt": {
+    "$date": "2024-02-28T02:40:58.344Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T02:40:58.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df6312d8f7528258a3a564"
+  },
+  "userID": {
+    "$oid": "65df62d8d8f7528258a3a554"
+  },
+  "ProductID": {
+    "$oid": "65df62f7d8f7528258a3a55e"
+  },
+  "QuantityPurchased": 788,
+  "PurchaseDate": "2024-02-28",
+  "TotalPurchaseAmount": 3446,
+  "createdAt": {
+    "$date": "2024-02-28T16:45:06.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T16:45:06.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df6a31949ba4b0b871a263"
+  },
+  "userID": {
+    "$oid": "65df69b9949ba4b0b871a253"
+  },
+  "ProductID": {
+    "$oid": "65df6a0f949ba4b0b871a25d"
+  },
+  "QuantityPurchased": 675,
+  "PurchaseDate": "2024-02-20",
+  "TotalPurchaseAmount": 879,
+  "createdAt": {
+    "$date": "2024-02-28T17:15:29.777Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T17:15:29.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df702d00c00f7bafb5429f"
+  },
+  "userID": {
+    "$oid": "65df6e9500c00f7bafb54262"
+  },
+  "ProductID": {
+    "$oid": "65df6ffe00c00f7bafb54297"
+  },
+  "QuantityPurchased": 231,
+  "PurchaseDate": "2024-02-28",
+  "TotalPurchaseAmount": 321,
+  "createdAt": {
+    "$date": "2024-02-28T17:41:01.258Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T17:41:01.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df75c67e6671ace900dacd"
+  },
+  "userID": {
+    "$oid": "65d83375267b7eded57b2c6a"
+  },
+  "ProductID": {
+    "$oid": "65d833c9267b7eded57b2ca6"
+  },
+  "QuantityPurchased": 65564,
+  "PurchaseDate": "2024-02-28",
+  "TotalPurchaseAmount": 365,
+  "createdAt": {
+    "$date": "2024-02-28T18:04:54.398Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T18:04:54.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df88042c24da98d3c50b71"
+  },
+  "userID": {
+    "$oid": "65df87a62c24da98d3c50b5f"
+  },
+  "ProductID": {
+    "$oid": "65df87e22c24da98d3c50b6b"
+  },
+  "QuantityPurchased": 10,
+  "PurchaseDate": "2024-02-27",
+  "TotalPurchaseAmount": 90,
+  "createdAt": {
+    "$date": "2024-02-28T19:22:44.942Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T19:22:44.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df96e23b76325505380581"
+  },
+  "userID": {
+    "$oid": "65df96423b76325505380559"
+  },
+  "ProductID": {
+    "$oid": "65df96a23b76325505380571"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-02-28",
+  "TotalPurchaseAmount": 50000,
+  "createdAt": {
+    "$date": "2024-02-28T20:26:10.217Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T20:26:10.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dfa8b3b258f37943af507c"
+  },
+  "userID": {
+    "$oid": "65df96423b76325505380559"
+  },
+  "ProductID": {
+    "$oid": "65dfa893b258f37943af5075"
+  },
+  "QuantityPurchased": 200,
+  "PurchaseDate": "2024-02-28",
+  "TotalPurchaseAmount": 25000,
+  "createdAt": {
+    "$date": "2024-02-28T21:42:11.817Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T21:42:11.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dfa908b258f37943af50b5"
+  },
+  "userID": {
+    "$oid": "65df96423b76325505380559"
+  },
+  "ProductID": {
+    "$oid": "65df96a23b76325505380571"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-02-28",
+  "TotalPurchaseAmount": 50000,
+  "createdAt": {
+    "$date": "2024-02-28T21:43:36.439Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T21:43:36.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dfafa0b258f37943af5105"
+  },
+  "userID": {
+    "$oid": "65c2b5ab523928c8ec0c7078"
+  },
+  "ProductID": {
+    "$oid": "65dfaf82b258f37943af50fa"
+  },
+  "QuantityPurchased": 4,
+  "PurchaseDate": "2024-02-13",
+  "TotalPurchaseAmount": 3,
+  "createdAt": {
+    "$date": "2024-02-28T22:11:44.444Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T22:11:44.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dfed30bca1528c956e625f"
+  },
+  "userID": {
+    "$oid": "65df759aafee9257e6918aa5"
+  },
+  "ProductID": {
+    "$oid": "65dfecf1bca1528c956e6253"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-02-29",
+  "TotalPurchaseAmount": 21,
+  "createdAt": {
+    "$date": "2024-02-29T02:34:24.794Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-29T02:34:24.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e03b87c3535c6839995d75"
+  },
+  "userID": {
+    "$oid": "65e0389beae1131e1f1ccd83"
+  },
+  "ProductID": {
+    "$oid": "65e03b67c3535c6839995d5d"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-02-29",
+  "TotalPurchaseAmount": 3,
+  "createdAt": {
+    "$date": "2024-02-29T08:08:39.424Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-29T08:08:39.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e05e6064b0dea00ece1980"
+  },
+  "userID": {
+    "$oid": "65d31710eb2132b47b46fb68"
+  },
+  "ProductID": {
+    "$oid": "65e05e4d64b0dea00ece1978"
+  },
+  "QuantityPurchased": 5,
+  "PurchaseDate": "2024-01-31",
+  "TotalPurchaseAmount": 456,
+  "createdAt": {
+    "$date": "2024-02-29T10:37:20.539Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-29T10:37:20.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e061f2845b309cb0cbeb6e"
+  },
+  "userID": {
+    "$oid": "65e0500ec5c3ef5b36b93ca0"
+  },
+  "ProductID": {
+    "$oid": "65e061b2845b309cb0cbeb5f"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-02-29",
+  "TotalPurchaseAmount": 600,
+  "createdAt": {
+    "$date": "2024-02-29T10:52:34.883Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-29T10:52:34.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e17f619a28e098f6b7f03a"
+  },
+  "userID": {
+    "$oid": "65e17d8dc37195b1500ea721"
+  },
+  "ProductID": {
+    "$oid": "65e17f4c9a28e098f6b7f030"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-12",
+  "TotalPurchaseAmount": 21,
+  "createdAt": {
+    "$date": "2024-03-01T07:10:25.476Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T07:10:25.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e17f619a28e098f6b7f038"
+  },
+  "userID": {
+    "$oid": "65e17d8dc37195b1500ea721"
+  },
+  "ProductID": {
+    "$oid": "65e17f4c9a28e098f6b7f030"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-12",
+  "TotalPurchaseAmount": 21,
+  "createdAt": {
+    "$date": "2024-03-01T07:10:25.473Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T07:10:25.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e1be9c25acac57ae73d6dc"
+  },
+  "userID": {
+    "$oid": "65e1bdfe25acac57ae73d6b5"
+  },
+  "ProductID": {
+    "$oid": "65e1be7b25acac57ae73d6d6"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-20",
+  "TotalPurchaseAmount": 111,
+  "createdAt": {
+    "$date": "2024-03-01T11:40:12.839Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T11:40:12.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e1bfa325acac57ae73d721"
+  },
+  "userID": {
+    "$oid": "65e1bdfe25acac57ae73d6b5"
+  },
+  "ProductID": {
+    "$oid": "65e1be7b25acac57ae73d6d6"
+  },
+  "QuantityPurchased": 2222,
+  "PurchaseDate": "2024-03-01",
+  "TotalPurchaseAmount": 222,
+  "createdAt": {
+    "$date": "2024-03-01T11:44:35.530Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T11:44:35.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e1c01d25acac57ae73d747"
+  },
+  "userID": {
+    "$oid": "65e1bdfe25acac57ae73d6b5"
+  },
+  "ProductID": {
+    "$oid": "65e1bfd825acac57ae73d740"
+  },
+  "QuantityPurchased": 43434,
+  "PurchaseDate": "2024-03-14",
+  "TotalPurchaseAmount": 434343,
+  "createdAt": {
+    "$date": "2024-03-01T11:46:37.390Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T11:46:37.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e1f557731196ab52c973d4"
+  },
+  "userID": {
+    "$oid": "65e1f2bd731196ab52c97331"
+  },
+  "ProductID": {
+    "$oid": "65e1f3f2731196ab52c9739a"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-03-29",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2024-03-01T15:33:43.232Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T15:33:43.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e20a3081e01dcc4b2f5828"
+  },
+  "userID": {
+    "$oid": "65e2081f81e01dcc4b2f580f"
+  },
+  "ProductID": {
+    "$oid": "65e20a1981e01dcc4b2f5820"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-14",
+  "TotalPurchaseAmount": 22,
+  "createdAt": {
+    "$date": "2024-03-01T17:02:40.900Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T17:02:40.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2170e5bebaf4b474e87d0"
+  },
+  "userID": {
+    "$oid": "65e216605bebaf4b474e879c"
+  },
+  "ProductID": {
+    "$oid": "65e216a25bebaf4b474e87bc"
+  },
+  "QuantityPurchased": 6,
+  "PurchaseDate": "2024-03-01",
+  "TotalPurchaseAmount": 500,
+  "createdAt": {
+    "$date": "2024-03-01T17:57:34.286Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T17:57:34.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e298f8b5a5656f8d454690"
+  },
+  "userID": {
+    "$oid": "65e294feb5a5656f8d454644"
+  },
+  "ProductID": {
+    "$oid": "65e2988fb5a5656f8d45467d"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-02",
+  "TotalPurchaseAmount": 122,
+  "createdAt": {
+    "$date": "2024-03-02T03:11:52.810Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-02T03:11:52.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2dcdf677a0479f7e3af94"
+  },
+  "userID": {
+    "$oid": "65e2dbd8677a0479f7e3af69"
+  },
+  "ProductID": {
+    "$oid": "65e2dc7b677a0479f7e3af77"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-02",
+  "TotalPurchaseAmount": 299,
+  "createdAt": {
+    "$date": "2024-03-02T08:01:35.846Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-02T08:01:35.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e353b55fa57719851f5b4f"
+  },
+  "userID": {
+    "$oid": "65e3529f5fa57719851f5b19"
+  },
+  "ProductID": {
+    "$oid": "65e352ee5fa57719851f5b24"
+  },
+  "QuantityPurchased": 700,
+  "PurchaseDate": "2024-02-29",
+  "TotalPurchaseAmount": 500,
+  "createdAt": {
+    "$date": "2024-03-02T16:28:37.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-02T16:28:37.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e4110ab369894cf3d541b1"
+  },
+  "userID": {
+    "$oid": "65e4104ab369894cf3d54190"
+  },
+  "ProductID": {
+    "$oid": "65e410ecb369894cf3d541a9"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-03-03",
+  "TotalPurchaseAmount": 400,
+  "createdAt": {
+    "$date": "2024-03-03T05:56:26.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T05:56:26.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e4111db369894cf3d541b8"
+  },
+  "userID": {
+    "$oid": "65e4104ab369894cf3d54190"
+  },
+  "ProductID": {
+    "$oid": "65e410b8b369894cf3d541a5"
+  },
+  "QuantityPurchased": 200,
+  "PurchaseDate": "2024-03-03",
+  "TotalPurchaseAmount": 900,
+  "createdAt": {
+    "$date": "2024-03-03T05:56:45.033Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T05:56:45.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e4112eb369894cf3d541bf"
+  },
+  "userID": {
+    "$oid": "65e4104ab369894cf3d54190"
+  },
+  "ProductID": {
+    "$oid": "65e4108ab369894cf3d541a1"
+  },
+  "QuantityPurchased": 200,
+  "PurchaseDate": "2024-03-03",
+  "TotalPurchaseAmount": 700,
+  "createdAt": {
+    "$date": "2024-03-03T05:57:02.716Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T05:57:02.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e42ed1b369894cf3d54275"
+  },
+  "userID": {
+    "$oid": "65e4104ab369894cf3d54190"
+  },
+  "ProductID": {
+    "$oid": "65e42e71b369894cf3d5426b"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-02-14",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2024-03-03T08:03:29.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T08:03:29.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e45d4a144a9a39f1d927d8"
+  },
+  "userID": {
+    "$oid": "65e45cfc144a9a39f1d927bd"
+  },
+  "ProductID": {
+    "$oid": "65e45d35144a9a39f1d927d2"
+  },
+  "QuantityPurchased": 200,
+  "PurchaseDate": "2024-03-02",
+  "TotalPurchaseAmount": 7855,
+  "createdAt": {
+    "$date": "2024-03-03T11:21:46.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T11:21:46.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e4812bc97e4c1c6a33b28e"
+  },
+  "userID": {
+    "$oid": "65e48056c97e4c1c6a33b26d"
+  },
+  "ProductID": {
+    "$oid": "65e48101c97e4c1c6a33b286"
+  },
+  "QuantityPurchased": 200,
+  "PurchaseDate": "2024-02-01",
+  "TotalPurchaseAmount": 800,
+  "createdAt": {
+    "$date": "2024-03-03T13:54:51.024Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T13:54:51.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e48143c97e4c1c6a33b295"
+  },
+  "userID": {
+    "$oid": "65e48056c97e4c1c6a33b26d"
+  },
+  "ProductID": {
+    "$oid": "65e480cdc97e4c1c6a33b282"
+  },
+  "QuantityPurchased": 500,
+  "PurchaseDate": "2024-03-01",
+  "TotalPurchaseAmount": 1500,
+  "createdAt": {
+    "$date": "2024-03-03T13:55:15.024Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T13:55:15.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e48157c97e4c1c6a33b29c"
+  },
+  "userID": {
+    "$oid": "65e48056c97e4c1c6a33b26d"
+  },
+  "ProductID": {
+    "$oid": "65e480abc97e4c1c6a33b27e"
+  },
+  "QuantityPurchased": 400,
+  "PurchaseDate": "2024-02-09",
+  "TotalPurchaseAmount": 2000,
+  "createdAt": {
+    "$date": "2024-03-03T13:55:35.433Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T13:55:35.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e4fa2d997bbf4e1ff1b625"
+  },
+  "userID": {
+    "$oid": "65e4f998997bbf4e1ff1b5f8"
+  },
+  "ProductID": {
+    "$oid": "65e4fa0b997bbf4e1ff1b61d"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-04",
+  "TotalPurchaseAmount": 3500000,
+  "createdAt": {
+    "$date": "2024-03-03T22:31:09.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T22:31:09.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e5284925e24809731a095f"
+  },
+  "userID": {
+    "$oid": "65e5279f25e24809731a0937"
+  },
+  "ProductID": {
+    "$oid": "65e527e425e24809731a0950"
+  },
+  "QuantityPurchased": 10,
+  "PurchaseDate": "2024-03-04",
+  "TotalPurchaseAmount": 100,
+  "createdAt": {
+    "$date": "2024-03-04T01:47:53.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-04T01:47:53.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e62544b523ec8d94b04f93"
+  },
+  "userID": {
+    "$oid": "65e62486b523ec8d94b04f5c"
+  },
+  "ProductID": {
+    "$oid": "65e624bfb523ec8d94b04f6d"
+  },
+  "QuantityPurchased": 500,
+  "PurchaseDate": "2024-03-13",
+  "TotalPurchaseAmount": 3000,
+  "createdAt": {
+    "$date": "2024-03-04T19:47:16.282Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-04T19:47:16.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e6271eb523ec8d94b04ff4"
+  },
+  "userID": {
+    "$oid": "65e62486b523ec8d94b04f5c"
+  },
+  "ProductID": {
+    "$oid": "65e624bfb523ec8d94b04f6d"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-03-21",
+  "TotalPurchaseAmount": 1000,
+  "createdAt": {
+    "$date": "2024-03-04T19:55:10.875Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-04T19:55:10.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e8510d69cb9c79239440b6"
+  },
+  "userID": {
+    "$oid": "65cf3b877e6dfed9471e2c9b"
+  },
+  "ProductID": {
+    "$oid": "65cf3c417e6dfed9471e2cc9"
+  },
+  "QuantityPurchased": 500,
+  "PurchaseDate": "2024-03-06",
+  "TotalPurchaseAmount": 100,
+  "createdAt": {
+    "$date": "2024-03-06T11:18:37.127Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T11:18:37.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e865a88d08fd9169a81b15"
+  },
+  "userID": {
+    "$oid": "65e8643d8d08fd9169a81ab7"
+  },
+  "ProductID": {
+    "$oid": "65e8652b8d08fd9169a81aee"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-05",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2024-03-06T12:46:32.893Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T12:46:32.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e8fcc3f80d93924127d223"
+  },
+  "userID": {
+    "$oid": "65e8fc63f80d93924127d213"
+  },
+  "ProductID": {
+    "$oid": "65e8fc9ef80d93924127d21d"
+  },
+  "QuantityPurchased": 4,
+  "PurchaseDate": "2024-03-07",
+  "TotalPurchaseAmount": 800,
+  "createdAt": {
+    "$date": "2024-03-06T23:31:15.026Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T23:31:15.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eb19cba1571447a062363b"
+  },
+  "userID": {
+    "$oid": "65eb1890a1571447a0623614"
+  },
+  "ProductID": {
+    "$oid": "65eb1905a1571447a0623629"
+  },
+  "QuantityPurchased": 10,
+  "PurchaseDate": "2024-03-08",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2024-03-08T13:59:39.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-08T13:59:39.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ecd4f0020dddbd924b3614"
+  },
+  "userID": {
+    "$oid": "65ecd470020dddbd924b35ef"
+  },
+  "ProductID": {
+    "$oid": "65ecd4b4020dddbd924b3601"
+  },
+  "QuantityPurchased": 8,
+  "PurchaseDate": "2024-03-10",
+  "TotalPurchaseAmount": 200,
+  "createdAt": {
+    "$date": "2024-03-09T21:30:24.861Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-09T21:30:24.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ed2d778f8a24d822e2c10d"
+  },
+  "userID": {
+    "$oid": "65ed2bfa8f8a24d822e2c0c6"
+  },
+  "ProductID": {
+    "$oid": "65ed2c908f8a24d822e2c0e2"
+  },
+  "QuantityPurchased": 1000,
+  "PurchaseDate": "2024-03-10",
+  "TotalPurchaseAmount": 299,
+  "createdAt": {
+    "$date": "2024-03-10T03:48:07.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T03:48:07.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ed606646e416785902ae1b"
+  },
+  "userID": {
+    "$oid": "65ed5f8746e416785902adcb"
+  },
+  "ProductID": {
+    "$oid": "65ed601846e416785902ae0c"
+  },
+  "QuantityPurchased": 23,
+  "PurchaseDate": "2024-03-10",
+  "TotalPurchaseAmount": 899,
+  "createdAt": {
+    "$date": "2024-03-10T07:25:26.301Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T07:25:26.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65edd39b1443ff1e58051b2f"
+  },
+  "userID": {
+    "$oid": "65e5279f25e24809731a0937"
+  },
+  "ProductID": {
+    "$oid": "65edd3831443ff1e58051b20"
+  },
+  "QuantityPurchased": 100000,
+  "PurchaseDate": "2024-03-10",
+  "TotalPurchaseAmount": 12,
+  "createdAt": {
+    "$date": "2024-03-10T15:36:59.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T15:36:59.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65edd8f6cc6d4271555c42b3"
+  },
+  "userID": {
+    "$oid": "65edd846cc6d4271555c4267"
+  },
+  "ProductID": {
+    "$oid": "65edd8bacc6d4271555c4298"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-10",
+  "TotalPurchaseAmount": 500,
+  "createdAt": {
+    "$date": "2024-03-10T15:59:50.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T15:59:50.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65edd95acc6d4271555c42f4"
+  },
+  "userID": {
+    "$oid": "65edd846cc6d4271555c4267"
+  },
+  "ProductID": {
+    "$oid": "65edd8bacc6d4271555c4298"
+  },
+  "QuantityPurchased": 3,
+  "PurchaseDate": "2024-03-10",
+  "TotalPurchaseAmount": 1500,
+  "createdAt": {
+    "$date": "2024-03-10T16:01:30.470Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T16:01:30.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65edfbdc908e692547537a73"
+  },
+  "userID": {
+    "$oid": "65edfb69908e692547537a59"
+  },
+  "ProductID": {
+    "$oid": "65edfbac908e692547537a6a"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-03-10",
+  "TotalPurchaseAmount": 9,
+  "createdAt": {
+    "$date": "2024-03-10T18:28:44.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-10T18:28:44.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ef8d95044e27e68f4e4113"
+  },
+  "userID": {
+    "$oid": "65ef8d6e044e27e68f4e4103"
+  },
+  "ProductID": {
+    "$oid": "65ef8d81044e27e68f4e410d"
+  },
+  "QuantityPurchased": 54545,
+  "PurchaseDate": "2024-03-11",
+  "TotalPurchaseAmount": 200,
+  "createdAt": {
+    "$date": "2024-03-11T23:02:45.825Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-11T23:02:45.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f032a44b7769a6a52c381f"
+  },
+  "userID": {
+    "$oid": "65f0315c4b7769a6a52c3804"
+  },
+  "ProductID": {
+    "$oid": "65f032754b7769a6a52c3810"
+  },
+  "QuantityPurchased": 44,
+  "PurchaseDate": "2024-03-04",
+  "TotalPurchaseAmount": 13000,
+  "createdAt": {
+    "$date": "2024-03-12T10:47:00.950Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-12T10:47:00.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1461d1ea6b85b51153e6e"
+  },
+  "userID": {
+    "$oid": "65f1457d1ea6b85b51153e4c"
+  },
+  "ProductID": {
+    "$oid": "65f145b51ea6b85b51153e56"
+  },
+  "QuantityPurchased": 5,
+  "PurchaseDate": "2024-03-21",
+  "TotalPurchaseAmount": 24,
+  "createdAt": {
+    "$date": "2024-03-13T06:22:21.998Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T06:22:21.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f146b31ea6b85b51153e9d"
+  },
+  "userID": {
+    "$oid": "65f1457d1ea6b85b51153e4c"
+  },
+  "ProductID": {
+    "$oid": "65f1465b1ea6b85b51153e84"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2024-03-29",
+  "TotalPurchaseAmount": 234,
+  "createdAt": {
+    "$date": "2024-03-13T06:24:51.208Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T06:24:51.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f184716a921dd11eca0e6c"
+  },
+  "userID": {
+    "$oid": "65f183e76a921dd11eca0e4e"
+  },
+  "ProductID": {
+    "$oid": "65f184546a921dd11eca0e66"
+  },
+  "QuantityPurchased": 400,
+  "PurchaseDate": "2024-03-12",
+  "TotalPurchaseAmount": 200,
+  "createdAt": {
+    "$date": "2024-03-13T10:48:17.996Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T10:48:17.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f23f1d761a7c8bf5a213c2"
+  },
+  "userID": {
+    "$oid": "65f23df2761a7c8bf5a21381"
+  },
+  "ProductID": {
+    "$oid": "65f23ee4761a7c8bf5a213b3"
+  },
+  "QuantityPurchased": 99,
+  "PurchaseDate": "2024-03-13",
+  "TotalPurchaseAmount": 5,
+  "createdAt": {
+    "$date": "2024-03-14T00:04:45.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T00:04:45.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2b6964aff83a35e2cd664"
+  },
+  "userID": {
+    "$oid": "65f2b6554aff83a35e2cd648"
+  },
+  "ProductID": {
+    "$oid": "65f2b6844aff83a35e2cd65e"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-03-14",
+  "TotalPurchaseAmount": 100,
+  "createdAt": {
+    "$date": "2024-03-14T08:34:30.645Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T08:34:30.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f311758ea8be98d841361b"
+  },
+  "userID": {
+    "$oid": "65f311438ea8be98d84135fe"
+  },
+  "ProductID": {
+    "$oid": "65f311658ea8be98d8413615"
+  },
+  "QuantityPurchased": 22,
+  "PurchaseDate": "2024-03-14",
+  "TotalPurchaseAmount": 23123,
+  "createdAt": {
+    "$date": "2024-03-14T15:02:13.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T15:02:13.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f46fd640cc5af06e8868c6"
+  },
+  "userID": {
+    "$oid": "65e6f344c9d17e275a1f6f20"
+  },
+  "ProductID": {
+    "$oid": "65f46fb440cc5af06e8868c0"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-15",
+  "TotalPurchaseAmount": 2000,
+  "createdAt": {
+    "$date": "2024-03-15T15:57:10.920Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T15:57:10.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f53e757d7a4b2ec9347c4a"
+  },
+  "userID": {
+    "$oid": "65f53d677d7a4b2ec9347c15"
+  },
+  "ProductID": {
+    "$oid": "65f53d8c7d7a4b2ec9347c21"
+  },
+  "QuantityPurchased": 3,
+  "PurchaseDate": "2024-03-15",
+  "TotalPurchaseAmount": 200,
+  "createdAt": {
+    "$date": "2024-03-16T06:38:45.616Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T06:38:45.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f53ea77d7a4b2ec9347c5e"
+  },
+  "userID": {
+    "$oid": "65f53d677d7a4b2ec9347c15"
+  },
+  "ProductID": {
+    "$oid": "65f53d8c7d7a4b2ec9347c21"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2024-03-15",
+  "TotalPurchaseAmount": 200,
+  "createdAt": {
+    "$date": "2024-03-16T06:39:35.844Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T06:39:35.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f54f0e1f432aab593e22ab"
+  },
+  "userID": {
+    "$oid": "65f54e1e1f432aab593e2240"
+  },
+  "ProductID": {
+    "$oid": "65f54e761f432aab593e225f"
+  },
+  "QuantityPurchased": 10,
+  "PurchaseDate": "2010-10-10",
+  "TotalPurchaseAmount": 599,
+  "createdAt": {
+    "$date": "2024-03-16T07:49:34.736Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T07:49:34.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f68ca1288bddd4a720c0e5"
+  },
+  "userID": {
+    "$oid": "65e5279f25e24809731a0937"
+  },
+  "ProductID": {
+    "$oid": "65f68c86288bddd4a720c0de"
+  },
+  "QuantityPurchased": 1000,
+  "PurchaseDate": "2024-03-17",
+  "TotalPurchaseAmount": 10000,
+  "createdAt": {
+    "$date": "2024-03-17T06:24:33.761Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T06:24:33.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f6e58f0cb9b6b589d406dd"
+  },
+  "userID": {
+    "$oid": "65f6e2ccaeb911d105a295ca"
+  },
+  "ProductID": {
+    "$oid": "65f6e5440cb9b6b589d406c1"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2024-03-17",
+  "TotalPurchaseAmount": 1,
+  "createdAt": {
+    "$date": "2024-03-17T12:43:59.651Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T12:43:59.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f7ea318b2126a67c000b07"
+  },
+  "userID": {
+    "$oid": "65f7e76c8b2126a67c000a4f"
+  },
+  "ProductID": {
+    "$oid": "65f7e9b38b2126a67c000abe"
+  },
+  "QuantityPurchased": 10,
+  "PurchaseDate": "2024-03-18",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2024-03-18T07:16:01.554Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T07:16:01.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f7ea608b2126a67c000b18"
+  },
+  "userID": {
+    "$oid": "65f7e76c8b2126a67c000a4f"
+  },
+  "ProductID": {
+    "$oid": "65f7e8088b2126a67c000a9b"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2024-03-18",
+  "TotalPurchaseAmount": 400,
+  "createdAt": {
+    "$date": "2024-03-18T07:16:48.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T07:16:48.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f7ff5a8b2126a67c000ce4"
+  },
+  "userID": {
+    "$oid": "65f7e76c8b2126a67c000a4f"
+  },
+  "ProductID": {
+    "$oid": "65f7ff2b8b2126a67c000cd6"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-12",
+  "TotalPurchaseAmount": 10,
+  "createdAt": {
+    "$date": "2024-03-18T08:46:18.754Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T08:46:18.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f811f9a3f1fed76c92f640"
+  },
+  "userID": {
+    "$oid": "65f8117ea3f1fed76c92f61a"
+  },
+  "ProductID": {
+    "$oid": "65f811e4a3f1fed76c92f63a"
+  },
+  "QuantityPurchased": 5,
+  "PurchaseDate": "2024-03-27",
+  "TotalPurchaseAmount": 5,
+  "createdAt": {
+    "$date": "2024-03-18T10:05:45.609Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T10:05:45.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f81962282f5264203b3732"
+  },
+  "userID": {
+    "$oid": "65f818fc282f5264203b36d4"
+  },
+  "ProductID": {
+    "$oid": "65f8191a282f5264203b36f3"
+  },
+  "QuantityPurchased": 32423,
+  "PurchaseDate": "2024-03-18",
+  "TotalPurchaseAmount": 2,
+  "createdAt": {
+    "$date": "2024-03-18T10:37:22.295Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T10:37:22.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f947ca19660e79a157492a"
+  },
+  "userID": {
+    "$oid": "65e0d9b439fc9d8737e386ee"
+  },
+  "ProductID": {
+    "$oid": "65f947a819660e79a1574912"
+  },
+  "QuantityPurchased": 12,
+  "PurchaseDate": "2024-03-28",
+  "TotalPurchaseAmount": 1223,
+  "createdAt": {
+    "$date": "2024-03-19T08:07:38.863Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-19T08:07:38.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f960cc9e0c6abec0b611ef"
+  },
+  "userID": {
+    "$oid": "65f885f4c06e285d4db83031"
+  },
+  "ProductID": {
+    "$oid": "65f960ad9e0c6abec0b611e7"
+  },
+  "QuantityPurchased": 3,
+  "PurchaseDate": "2024-03-20",
+  "TotalPurchaseAmount": 3333,
+  "createdAt": {
+    "$date": "2024-03-19T09:54:20.299Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-19T09:54:20.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f9b1d8cfbc7031f284e264"
+  },
+  "userID": {
+    "$oid": "65f8ef701c33a85f2ffb6ef7"
+  },
+  "ProductID": {
+    "$oid": "65f9b1b4cfbc7031f284e25e"
+  },
+  "QuantityPurchased": 111,
+  "PurchaseDate": "2024-03-12",
+  "TotalPurchaseAmount": 19,
+  "createdAt": {
+    "$date": "2024-03-19T15:40:08.641Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-19T15:40:08.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f9c5be85037daf5b3306f0"
+  },
+  "userID": {
+    "$oid": "65e1f2bd731196ab52c97331"
+  },
+  "ProductID": {
+    "$oid": "65f9c58385037daf5b3306e5"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-03-19",
+  "TotalPurchaseAmount": 5,
+  "createdAt": {
+    "$date": "2024-03-19T17:05:02.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-19T17:05:02.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f9c87885037daf5b330836"
+  },
+  "userID": {
+    "$oid": "65e1f2bd731196ab52c97331"
+  },
+  "ProductID": {
+    "$oid": "65f9c58385037daf5b3306e5"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-17",
+  "TotalPurchaseAmount": 100,
+  "createdAt": {
+    "$date": "2024-03-19T17:16:40.709Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-19T17:16:40.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fa340ea20dd90a35b8da9d"
+  },
+  "userID": {
+    "$oid": "65fa31a6a20dd90a35b8d9fe"
+  },
+  "ProductID": {
+    "$oid": "65fa33b0a20dd90a35b8da61"
+  },
+  "QuantityPurchased": 200,
+  "PurchaseDate": "2024-03-12",
+  "TotalPurchaseAmount": 200,
+  "createdAt": {
+    "$date": "2024-03-20T00:55:42.993Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T00:55:42.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fa357ea20dd90a35b8db72"
+  },
+  "userID": {
+    "$oid": "65fa31a6a20dd90a35b8d9fe"
+  },
+  "ProductID": {
+    "$oid": "65fa3566a20dd90a35b8db5a"
+  },
+  "QuantityPurchased": 500,
+  "PurchaseDate": "2024-03-20",
+  "TotalPurchaseAmount": 5000,
+  "createdAt": {
+    "$date": "2024-03-20T01:01:50.940Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T01:01:50.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fa8bfb0fc7799bccaf53a2"
+  },
+  "userID": {
+    "$oid": "65fa8aac0fc7799bccaf5384"
+  },
+  "ProductID": {
+    "$oid": "65fa8af70fc7799bccaf5391"
+  },
+  "QuantityPurchased": 3,
+  "PurchaseDate": "2024-03-20",
+  "TotalPurchaseAmount": 4,
+  "createdAt": {
+    "$date": "2024-03-20T07:10:51.007Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T07:10:51.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fa9b74ae38fa59e930f34a"
+  },
+  "userID": {
+    "$oid": "65fa9984ae38fa59e930f2e2"
+  },
+  "ProductID": {
+    "$oid": "65fa9aa2ae38fa59e930f320"
+  },
+  "QuantityPurchased": 4,
+  "PurchaseDate": "2024-03-20",
+  "TotalPurchaseAmount": 5,
+  "createdAt": {
+    "$date": "2024-03-20T08:16:52.037Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T08:16:52.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb01caed12ea1d29ec2711"
+  },
+  "userID": {
+    "$oid": "65fb0164ed12ea1d29ec26f8"
+  },
+  "ProductID": {
+    "$oid": "65fb01b0ed12ea1d29ec270b"
+  },
+  "QuantityPurchased": 4,
+  "PurchaseDate": "2024-03-19",
+  "TotalPurchaseAmount": 12,
+  "createdAt": {
+    "$date": "2024-03-20T15:33:30.287Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T15:33:30.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb0f3c9026a095c00068cd"
+  },
+  "userID": {
+    "$oid": "65fac34d05f9a4f02d6d9246"
+  },
+  "ProductID": {
+    "$oid": "65fb0f0a9026a095c00068c0"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-20",
+  "TotalPurchaseAmount": 2,
+  "createdAt": {
+    "$date": "2024-03-20T16:30:52.178Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T16:30:52.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb0f6d9026a095c00068d4"
+  },
+  "userID": {
+    "$oid": "65fac34d05f9a4f02d6d9246"
+  },
+  "ProductID": {
+    "$oid": "65fb0da19026a095c000689d"
+  },
+  "QuantityPurchased": 4,
+  "PurchaseDate": "2024-03-20",
+  "TotalPurchaseAmount": 3,
+  "createdAt": {
+    "$date": "2024-03-20T16:31:41.084Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T16:31:41.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb0f839026a095c00068db"
+  },
+  "userID": {
+    "$oid": "65fac34d05f9a4f02d6d9246"
+  },
+  "ProductID": {
+    "$oid": "65fb0d629026a095c0006899"
+  },
+  "QuantityPurchased": 3,
+  "PurchaseDate": "2024-03-20",
+  "TotalPurchaseAmount": 3,
+  "createdAt": {
+    "$date": "2024-03-20T16:32:03.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T16:32:03.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb209af8c7dbb384f29d6e"
+  },
+  "userID": {
+    "$oid": "65fb2032f8c7dbb384f29d5e"
+  },
+  "ProductID": {
+    "$oid": "65fb207cf8c7dbb384f29d68"
+  },
+  "QuantityPurchased": 10,
+  "PurchaseDate": "2024-03-13",
+  "TotalPurchaseAmount": 300,
+  "createdAt": {
+    "$date": "2024-03-20T17:44:58.993Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T17:44:58.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fbc5de5fd5d5c684408a90"
+  },
+  "userID": {
+    "$oid": "65fbc353f5d7bb80f01c8e0d"
+  },
+  "ProductID": {
+    "$oid": "65fbc5b55fd5d5c684408a87"
+  },
+  "QuantityPurchased": 0,
+  "PurchaseDate": "2024-01-01",
+  "TotalPurchaseAmount": 0,
+  "createdAt": {
+    "$date": "2024-03-21T05:30:06.248Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T05:30:06.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc30c6e9b4f03b5145f17c"
+  },
+  "userID": {
+    "$oid": "65f927ae1c33a85f2ffb6f94"
+  },
+  "ProductID": {
+    "$oid": "65fc30b1e9b4f03b5145f174"
+  },
+  "QuantityPurchased": 15,
+  "PurchaseDate": "2024-03-22",
+  "TotalPurchaseAmount": 100,
+  "createdAt": {
+    "$date": "2024-03-21T13:06:14.661Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T13:06:14.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc75b3efbbed1fd00808ba"
+  },
+  "userID": {
+    "$oid": "65fc74beefbbed1fd0080893"
+  },
+  "ProductID": {
+    "$oid": "65fc7555efbbed1fd00808ab"
+  },
+  "QuantityPurchased": 20,
+  "PurchaseDate": "2024-03-22",
+  "TotalPurchaseAmount": 20,
+  "createdAt": {
+    "$date": "2024-03-21T18:00:19.578Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T18:00:19.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fca23f8e57563176ba83f9"
+  },
+  "userID": {
+    "$oid": "65fca1b58e57563176ba83dd"
+  },
+  "ProductID": {
+    "$oid": "65fca21c8e57563176ba83f0"
+  },
+  "QuantityPurchased": 5,
+  "PurchaseDate": "2024-03-22",
+  "TotalPurchaseAmount": 172,
+  "createdAt": {
+    "$date": "2024-03-21T21:10:23.759Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T21:10:23.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fd791ce882c2b69a00209a"
+  },
+  "userID": {
+    "$oid": "65fd77f3e882c2b69a00205c"
+  },
+  "ProductID": {
+    "$oid": "65fd783de882c2b69a002066"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-03-22",
+  "TotalPurchaseAmount": 4560,
+  "createdAt": {
+    "$date": "2024-03-22T12:27:08.511Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-22T12:27:08.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fdbe83bac79515dfaec79d"
+  },
+  "userID": {
+    "$oid": "65fc257ed929a95d70e1f2bf"
+  },
+  "ProductID": {
+    "$oid": "65fdbe6abac79515dfaec795"
+  },
+  "QuantityPurchased": 11,
+  "PurchaseDate": "2024-03-13",
+  "TotalPurchaseAmount": 124,
+  "createdAt": {
+    "$date": "2024-03-22T17:23:15.619Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-22T17:23:15.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fdbe84bac79515dfaec79f"
+  },
+  "userID": {
+    "$oid": "65fc257ed929a95d70e1f2bf"
+  },
+  "ProductID": {
+    "$oid": "65fdbe6abac79515dfaec795"
+  },
+  "QuantityPurchased": 11,
+  "PurchaseDate": "2024-03-13",
+  "TotalPurchaseAmount": 124,
+  "createdAt": {
+    "$date": "2024-03-22T17:23:16.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-22T17:23:16.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fdbe85bac79515dfaec7a1"
+  },
+  "userID": {
+    "$oid": "65fc257ed929a95d70e1f2bf"
+  },
+  "ProductID": {
+    "$oid": "65fdbe6abac79515dfaec795"
+  },
+  "QuantityPurchased": 11,
+  "PurchaseDate": "2024-03-13",
+  "TotalPurchaseAmount": 124,
+  "createdAt": {
+    "$date": "2024-03-22T17:23:17.654Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-22T17:23:17.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fe5fb128e70a92da14dd42"
+  },
+  "userID": {
+    "$oid": "65fe5f4a28e70a92da14dd32"
+  },
+  "ProductID": {
+    "$oid": "65fe5f8c28e70a92da14dd3c"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-03-21",
+  "TotalPurchaseAmount": 5000,
+  "createdAt": {
+    "$date": "2024-03-23T04:50:57.911Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-23T04:50:57.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ffb575ad48a0a53006128e"
+  },
+  "userID": {
+    "$oid": "65ffb4c7ad48a0a530061263"
+  },
+  "ProductID": {
+    "$oid": "65ffb546ad48a0a530061288"
+  },
+  "QuantityPurchased": 12,
+  "PurchaseDate": "2024-03-25",
+  "TotalPurchaseAmount": 400,
+  "createdAt": {
+    "$date": "2024-03-24T05:09:09.514Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-24T05:09:09.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ffe08bf0a4067afd7eed53"
+  },
+  "userID": {
+    "$oid": "65ffdce0f0a4067afd7eed0a"
+  },
+  "ProductID": {
+    "$oid": "65ffdd46f0a4067afd7eed1a"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2023-11-11",
+  "TotalPurchaseAmount": 33,
+  "createdAt": {
+    "$date": "2024-03-24T08:12:59.716Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-24T08:12:59.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6600054e9a4b55494cab8fa3"
+  },
+  "userID": {
+    "$oid": "6600050b9a4b55494cab8f7e"
+  },
+  "ProductID": {
+    "$oid": "660005409a4b55494cab8f9d"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-03-06",
+  "TotalPurchaseAmount": 12,
+  "createdAt": {
+    "$date": "2024-03-24T10:49:50.080Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-24T10:49:50.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6600054e9a4b55494cab8fa7"
+  },
+  "userID": {
+    "$oid": "6600050b9a4b55494cab8f7e"
+  },
+  "ProductID": {
+    "$oid": "660005409a4b55494cab8f9d"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-03-06",
+  "TotalPurchaseAmount": 12,
+  "createdAt": {
+    "$date": "2024-03-24T10:49:50.266Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-24T10:49:50.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660015b25403e4a5209d2c21"
+  },
+  "userID": {
+    "$oid": "65f038b3e6f93163da3423cb"
+  },
+  "ProductID": {
+    "$oid": "660015a05403e4a5209d2c19"
+  },
+  "QuantityPurchased": 50,
+  "PurchaseDate": "2024-03-24",
+  "TotalPurchaseAmount": 5000,
+  "createdAt": {
+    "$date": "2024-03-24T11:59:46.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-24T11:59:46.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66005c255069db4c2d5507c1"
+  },
+  "userID": {
+    "$oid": "6600596520370d655fea59b7"
+  },
+  "ProductID": {
+    "$oid": "660059a020370d655fea59c8"
+  },
+  "QuantityPurchased": 2,
+  "PurchaseDate": "2024-03-24",
+  "TotalPurchaseAmount": 750,
+  "createdAt": {
+    "$date": "2024-03-24T17:00:21.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-24T17:00:21.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66008b28d169b1bb7c750785"
+  },
+  "userID": {
+    "$oid": "66008ac5d169b1bb7c75075b"
+  },
+  "ProductID": {
+    "$oid": "66008b15d169b1bb7c75077f"
+  },
+  "QuantityPurchased": 3,
+  "PurchaseDate": "2024-03-27",
+  "TotalPurchaseAmount": 2,
+  "createdAt": {
+    "$date": "2024-03-24T20:20:56.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-24T20:20:56.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66016387b0b2cbea5426a2a2"
+  },
+  "userID": {
+    "$oid": "6601631cb0b2cbea5426a284"
+  },
+  "ProductID": {
+    "$oid": "66016359b0b2cbea5426a28f"
+  },
+  "QuantityPurchased": 1,
+  "PurchaseDate": "2024-03-25",
+  "TotalPurchaseAmount": 244,
+  "createdAt": {
+    "$date": "2024-03-25T11:44:07.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-25T11:44:07.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66017b308185d8d54be87845"
+  },
+  "userID": {
+    "$oid": "66017a648185d8d54be877fc"
+  },
+  "ProductID": {
+    "$oid": "66017acf8185d8d54be87824"
+  },
+  "QuantityPurchased": 500,
+  "PurchaseDate": "2024-03-25",
+  "TotalPurchaseAmount": 200,
+  "createdAt": {
+    "$date": "2024-03-25T13:25:04.206Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-25T13:25:04.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602855d11bf2eb6a2fcf780"
+  },
+  "userID": {
+    "$oid": "6602850d11bf2eb6a2fcf760"
+  },
+  "ProductID": {
+    "$oid": "6602854311bf2eb6a2fcf77a"
+  },
+  "QuantityPurchased": 100,
+  "PurchaseDate": "2024-03-26",
+  "TotalPurchaseAmount": 10,
+  "createdAt": {
+    "$date": "2024-03-26T08:20:45.398Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T08:20:45.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602878611bf2eb6a2fcf7dc"
+  },
+  "userID": {
+    "$oid": "6602872211bf2eb6a2fcf7bf"
+  },
+  "ProductID": {
+    "$oid": "6602875f11bf2eb6a2fcf7d6"
+  },
+  "QuantityPurchased": 10,
+  "PurchaseDate": "2024-03-26",
+  "TotalPurchaseAmount": 1000,
+  "createdAt": {
+    "$date": "2024-03-26T08:29:58.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T08:29:58.460Z"
+  },
+  "__v": 0
+}]

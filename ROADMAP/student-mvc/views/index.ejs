@@ -27,6 +27,51 @@
     <input type="text" name="grade" placeholder="Grade" required />
     <button type="submit">Add Student</button>
   </form>
+
+  
+<h2>Student with Courses</h2>
+<ul>
+  <% students.forEach(student=> {%>
+    <li>
+      <%= student.name %> - <%= student.age %> years old - Grade: <%= student.grade %> - Course: <%= student.course ? student.course.name : 'N/A' %>
+    </li>
+  <% }); %>
+</ul>
+
+<h2>Student with Mentors</h2>
+<ul>
+  <% students.forEach(student=> {%>
+    <li>
+      <%= student.name %> - <%= student.age %> years old - Grade: <%= student.grade %> - Mentor: <%= student.mentor ? student.mentor.name : 'N/A' %>
+    </li>
+  <% }); %>
+</ul>
+
+<h2>Student with Mentors and Courses</h2>
+<ul>
+  <% students.forEach(student=> {%>
+    <li>
+      <%= student.name %> - <%= student.age %> years old - Grade: <%= student.grade %> - Mentor: <%= student.mentor ? student.mentor.name : 'N/A' %> - Course: <%= student.course ? student.course.name : 'N/A' %>
+    </li>
+  <% }); %>
+
+</ul>
+<h2>Students without Mentors</h2>
+<ul>
+  <% students.forEach(student=> {%>
+    <li>
+      <%= student.name %> - <%= student.age %> years old - Grade: <%= student.grade %> - Mentor: <%= student.mentor ? student.mentor.name : 'N/A' %> - Course: <%= student.course ? student.course.name : 'N/A' %>
+    </li>
+  <% }); %>
+</ul>
+  
+
+ 
+
+
+
+
+
 </body>
 
 </html>

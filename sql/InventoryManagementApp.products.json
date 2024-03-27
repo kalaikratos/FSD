@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "660277d65b6b6543883a6a6e"
+  },
+  "userID": {
+    "$oid": "6602559949c88a5c7ac1fb78"
+  },
+  "name": "Iphone",
+  "manufacturer": "Apple",
+  "stock": -100,
+  "description": "Mobile Phone...",
+  "createdAt": {
+    "$date": "2024-03-26T07:23:02.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T07:26:41.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602854311bf2eb6a2fcf77a"
+  },
+  "userID": {
+    "$oid": "6602850d11bf2eb6a2fcf760"
+  },
+  "name": "Apple PC",
+  "manufacturer": "Apple",
+  "stock": 100,
+  "description": "",
+  "createdAt": {
+    "$date": "2024-03-26T08:20:19.083Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T08:20:45.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602875f11bf2eb6a2fcf7d6"
+  },
+  "userID": {
+    "$oid": "6602872211bf2eb6a2fcf7bf"
+  },
+  "name": "biryanu",
+  "manufacturer": "23",
+  "stock": 10,
+  "description": "232",
+  "createdAt": {
+    "$date": "2024-03-26T08:29:19.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T08:29:58.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602ad335d935713be1d17b1"
+  },
+  "userID": {
+    "$oid": "6602ad225d935713be1d17a4"
+  },
+  "name": "dsfvg",
+  "manufacturer": "sdfgsdf",
+  "stock": 0,
+  "description": "sdfg",
+  "createdAt": {
+    "$date": "2024-03-26T11:10:43.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T11:10:43.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602b161c8cd12fc2c8a5f9d"
+  },
+  "userID": {
+    "$oid": "6602b12bc8cd12fc2c8a5f87"
+  },
+  "name": "sdfgsdf",
+  "manufacturer": "dfgfd",
+  "stock": 0,
+  "description": "dfgsfdgsfgs",
+  "createdAt": {
+    "$date": "2024-03-26T11:28:33.270Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T11:28:33.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602b161c8cd12fc2c8a5f9f"
+  },
+  "userID": {
+    "$oid": "6602b12bc8cd12fc2c8a5f87"
+  },
+  "name": "sdfgsdf",
+  "manufacturer": "dfgfd",
+  "stock": 0,
+  "description": "dfgsfdgsfgs",
+  "createdAt": {
+    "$date": "2024-03-26T11:28:33.463Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T11:28:33.463Z"
+  },
+  "__v": 0
+}]

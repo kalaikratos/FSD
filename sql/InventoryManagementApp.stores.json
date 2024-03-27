@@ -1,0 +1,1177 @@
+[{
+  "_id": {
+    "$oid": "648824feb8c2f214b6df7aab"
+  },
+  "userID": {
+    "$oid": "64881c44b8c2f214b6df798d"
+  },
+  "name": "mac",
+  "category": "Groceries",
+  "address": "ettstetest",
+  "city": "lebanon",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1686643875/nv17e3kixosizw7esym4.png",
+  "createdAt": {
+    "$date": "2023-06-13T08:12:46.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T08:12:46.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6474087950d613d40633ee8b"
+  },
+  "userID": {
+    "$oid": "647407fc50d613d40633ee50"
+  },
+  "name": "WillDash",
+  "category": "Phones",
+  "address": "Aplicativo para gerar Dinheiro em troca de calorias parça!!!",
+  "city": "Boituva",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1685325938/spxbkaajv719leowbgdd.png",
+  "createdAt": {
+    "$date": "2023-05-29T02:05:45.884Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T02:05:45.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64663739b9723e3bf0bf7685"
+  },
+  "userID": {
+    "$oid": "645d018beebfce7daa416898"
+  },
+  "name": "apple",
+  "category": "Phones",
+  "address": "123 dahli",
+  "city": "dahli",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1684420402/nrpedkveq0cx2lj06ziv.png",
+  "createdAt": {
+    "$date": "2023-05-18T14:33:29.362Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-18T14:33:29.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642163aafb4f323d2f463ada"
+  },
+  "userID": {
+    "$oid": "641f5e0cb8bf5a9c7d7e986b"
+  },
+  "name": "General SuperMart",
+  "category": "SuperMart",
+  "address": "432, Emille Street Downtown",
+  "city": "NewYork",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1679909772/vn27fmwukqs0bxbpqvbf.jpg",
+  "createdAt": {
+    "$date": "2023-03-27T09:36:42.557Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-27T09:36:42.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64882722b8c2f214b6df7b44"
+  },
+  "userID": {
+    "$oid": "64881c44b8c2f214b6df798d"
+  },
+  "name": "ali",
+  "category": "Wholesale",
+  "address": "asdasda",
+  "city": "ali",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1686644435/amlkgocwwrtf4t8bc6fd.png",
+  "createdAt": {
+    "$date": "2023-06-13T08:21:54.805Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T08:21:54.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6475011750d613d40633f0b7"
+  },
+  "userID": {
+    "$oid": "647407fc50d613d40633ee50"
+  },
+  "name": "TaicodeSites",
+  "category": "Groceries",
+  "address": "99AOMESvemquevememailtbmmmm",
+  "city": "BoituvaSofrendoIrmao",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1685389584/igrgsmq3istxayrdnqfg.jpg",
+  "createdAt": {
+    "$date": "2023-05-29T19:46:31.243Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T19:46:31.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649c6824a80a881dbeb05af2"
+  },
+  "userID": {
+    "$oid": "649c6707a80a881dbeb05adc"
+  },
+  "name": "प्रमोद",
+  "category": "Groceries",
+  "address": "Chiti\nRamChowk",
+  "city": "Besisahar",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1687971845/cynycltusz4onvcrribq.jpg",
+  "createdAt": {
+    "$date": "2023-06-28T17:04:36.500Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-28T17:04:36.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642481c057b7e01e75259a91"
+  },
+  "userID": {
+    "$oid": "641f5e0cb8bf5a9c7d7e986b"
+  },
+  "name": "Grocery Mart",
+  "category": "Groceries",
+  "address": "321 Wallmart Street Line",
+  "city": "NewYork",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1680114102/apg1jga80dvadg9kbngz.jpg",
+  "createdAt": {
+    "$date": "2023-03-29T18:21:52.559Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-29T18:21:52.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6461ea736a985951ad68bade"
+  },
+  "userID": {
+    "$oid": "6461e403918bc9afb7f36e6e"
+  },
+  "name": "aftab_dev",
+  "category": "Phones",
+  "address": "hhhh",
+  "city": "Pune",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1684138605/a9w6apztbfiiugptmvs7.png",
+  "createdAt": {
+    "$date": "2023-05-15T08:16:51.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-15T08:16:51.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649977ef7bab5ba6e8fbcdd1"
+  },
+  "userID": {
+    "$oid": "64994f93ddfbafb8af5bb9f6"
+  },
+  "name": "motocare",
+  "category": "Electronics",
+  "address": "g-21, omaxe mall, subhash chowk",
+  "city": "gurugram",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1687779306/dnqqawvunxzya8thpx9i.jpg",
+  "createdAt": {
+    "$date": "2023-06-26T11:35:11.019Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-26T11:35:11.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6499568ca64804af9ba2a25b"
+  },
+  "userID": {
+    "$oid": "64994f93ddfbafb8af5bb9f6"
+  },
+  "name": "dev",
+  "category": "Groceries",
+  "address": "ghhh",
+  "city": "gurugram",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1687770758/qlgutvr125qw2x2c4rkb.png",
+  "createdAt": {
+    "$date": "2023-06-26T09:12:44.923Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-26T09:12:44.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6463cb7fd59e05966a841a51"
+  },
+  "userID": {
+    "$oid": "6463c9eed59e05966a841a01"
+  },
+  "name": "test",
+  "category": "SuperMart",
+  "address": "test",
+  "city": "test",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1684261747/mrkycf2o5y00tnqyibzw.png",
+  "createdAt": {
+    "$date": "2023-05-16T18:29:19.903Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-16T18:29:19.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649965dfa64804af9ba2a2d7"
+  },
+  "userID": {
+    "$oid": "64994f93ddfbafb8af5bb9f6"
+  },
+  "name": "ivenus",
+  "category": "Electronics",
+  "address": "buy apple products",
+  "city": "gurugram",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1687774681/smzvul8flmpzflcdbope.jpg",
+  "createdAt": {
+    "$date": "2023-06-26T10:18:07.302Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-26T10:18:07.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64740b5850d613d40633ef9d"
+  },
+  "userID": {
+    "$oid": "647407fc50d613d40633ee50"
+  },
+  "name": "Taicode",
+  "category": "SuperMart",
+  "address": "FUCKING I'm SueprMart",
+  "city": "World",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1685326676/jwfj6ymooprcadtmghgz.png",
+  "createdAt": {
+    "$date": "2023-05-29T02:18:00.434Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T02:18:00.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649cd97903cd3ce9b8d58cc9"
+  },
+  "userID": {
+    "$oid": "649cd7b103cd3ce9b8d58c7d"
+  },
+  "name": "Qwsddd",
+  "category": "SuperMart",
+  "address": "Rgddw",
+  "city": "Hydd",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1688000886/ciycfcdsr7ldlpgaadgk.jpg",
+  "createdAt": {
+    "$date": "2023-06-29T01:08:09.464Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-29T01:08:09.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6494112f6e95700de0eb47bd"
+  },
+  "userID": {
+    "$oid": "649410d46e95700de0eb47ad"
+  },
+  "name": "Nisha Stores",
+  "category": "Wholesale",
+  "address": "Birendranagar",
+  "city": "surkhet",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1687425323/wack3vbljck4vccpo0z9.jpg",
+  "createdAt": {
+    "$date": "2023-06-22T09:15:27.580Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-22T09:15:27.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6421713e56c20b77fa751953"
+  },
+  "userID": {
+    "$oid": "641f5e0cb8bf5a9c7d7e986b"
+  },
+  "name": "Kenwood Mart",
+  "category": "SuperMart",
+  "address": "2905, King Valley street 34",
+  "city": "Tucson",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1679913275/lvrgv5oyv7tbloldrndj.jpg",
+  "createdAt": {
+    "$date": "2023-03-27T10:34:38.538Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-27T10:34:38.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646509e848b2219d3638504c"
+  },
+  "userID": {
+    "$oid": "6465091148b2219d36385007"
+  },
+  "name": "stewart",
+  "category": "Phones",
+  "address": "Av. de Pointe-Noire",
+  "city": "Ngouala",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1684343264/urtyssk3djhhmxfdhuq2.png",
+  "createdAt": {
+    "$date": "2023-05-17T17:07:52.123Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-17T17:07:52.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64740c3450d613d40633f007"
+  },
+  "userID": {
+    "$oid": "647407fc50d613d40633ee50"
+  },
+  "name": "PetAoLado",
+  "category": "Wholesale",
+  "address": "aPP mAIS fofo do mundo",
+  "city": "SP",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1685326897/d5mfep7svnizoygadrws.png",
+  "createdAt": {
+    "$date": "2023-05-29T02:21:40.690Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-29T02:21:40.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649e403b0bf50cc27408a257"
+  },
+  "userID": {
+    "$oid": "649e3e1b0bf50cc27408a205"
+  },
+  "name": "Retails",
+  "category": "Groceries",
+  "address": "Calle 70 #59-193 Itagüi Antioquia",
+  "city": "Itagui",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1688092708/qlpfuwpiuzct5dpbgsx2.png",
+  "createdAt": {
+    "$date": "2023-06-30T02:38:51.599Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T02:38:51.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba7f5abb8789055b9e400d"
+  },
+  "userID": {
+    "$oid": "65ba7d26bb8789055b9e3f82"
+  },
+  "name": "hitesh",
+  "category": "SuperMart",
+  "address": "ggshgdhgd",
+  "city": "hhsbch",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1706721110/e4k9eh8vzbsbryicyltg.jpg",
+  "createdAt": {
+    "$date": "2024-01-31T17:11:54.520Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-31T17:11:54.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bdf0054e127c47e787fc65"
+  },
+  "userID": {
+    "$oid": "65bdee4c4e127c47e787fc05"
+  },
+  "name": "HS",
+  "category": "Wholesale",
+  "address": "fdsfsdf",
+  "city": "AHD",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1706946561/h4kfe9egrvpae8wjwxxa.jpg",
+  "createdAt": {
+    "$date": "2024-02-03T07:49:25.421Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-03T07:49:25.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf588447c366a9b710ed25"
+  },
+  "userID": {
+    "$oid": "65bf573647c366a9b710ecd5"
+  },
+  "name": "maruti suzuki",
+  "category": "Groceries",
+  "address": "dharwad KCD",
+  "city": "dharwad",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1707038846/o2eitqmrxaowmqwl0j1s.jpg",
+  "createdAt": {
+    "$date": "2024-02-04T09:27:32.069Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-04T09:27:32.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf62d0fb9cdb93fa5e8c3e"
+  },
+  "userID": {
+    "$oid": "65bf6266fb9cdb93fa5e8bf8"
+  },
+  "name": "zxczxczxc",
+  "category": "Groceries",
+  "address": "zxczxczxcz",
+  "city": "zxczxc",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1707041484/pq1ak1pffz6akdumudyq.png",
+  "createdAt": {
+    "$date": "2024-02-04T10:11:28.265Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-04T10:11:28.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c185d1e6a04521a438f459"
+  },
+  "userID": {
+    "$oid": "65c1852ce6a04521a438f426"
+  },
+  "name": "oioi",
+  "category": "SuperMart",
+  "address": "sdfsdfs",
+  "city": "sp",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1707181516/gvght83c9hj4vxyotrcj.png",
+  "createdAt": {
+    "$date": "2024-02-06T01:05:21.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-06T01:05:21.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c66d99fdfc8e427b101668"
+  },
+  "userID": {
+    "$oid": "65c66d10fdfc8e427b10164e"
+  },
+  "name": "Stock1",
+  "category": "SuperMart",
+  "address": "20 rue du Clos Pinet\nAppartement 001",
+  "city": "MLJ",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1707502997/cmupqdcrclsjmwypuoqj.png",
+  "createdAt": {
+    "$date": "2024-02-09T18:23:21.409Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-09T18:23:21.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c66fbefdfc8e427b101695"
+  },
+  "userID": {
+    "$oid": "65c66d10fdfc8e427b10164e"
+  },
+  "name": "qsdqsd",
+  "category": "Phones",
+  "address": "qdsqsdqsdqdqsdqsdqsdq",
+  "city": "qsdqsdqs",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1707503545/t0gisaep1q8vxsnd9k9n.png",
+  "createdAt": {
+    "$date": "2024-02-09T18:32:30.642Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-09T18:32:30.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c811c3358ed6f9ace5db5f"
+  },
+  "userID": {
+    "$oid": "65c80dad74703a082b6ea58d"
+  },
+  "name": "234234",
+  "category": "Wholesale",
+  "address": "234234234",
+  "city": "234234",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1707610580/uimlnrhoevfbx8wmw0tt.jpg",
+  "createdAt": {
+    "$date": "2024-02-11T00:16:03.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T00:16:03.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d31a84eb2132b47b46fb8c"
+  },
+  "userID": {
+    "$oid": "65d31710eb2132b47b46fb68"
+  },
+  "name": "Laizer ",
+  "category": "Wholesale",
+  "address": "The whole sale for pikipikii",
+  "city": "Arusha",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1708333693/xm4l84vrqdtcljowtsrp.jpg",
+  "createdAt": {
+    "$date": "2024-02-19T09:08:20.262Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T09:08:20.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ddb810ddca5d04e5729018"
+  },
+  "userID": {
+    "$oid": "65ddb671ddca5d04e5728fdc"
+  },
+  "name": "ABC",
+  "category": "Phones",
+  "address": "test ABC, 12345 test street",
+  "city": "Testchi",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709029387/jbzimght5zzbxead3ugi.jpg",
+  "createdAt": {
+    "$date": "2024-02-27T10:23:12.482Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T10:23:12.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df6a8c949ba4b0b871a272"
+  },
+  "userID": {
+    "$oid": "65df69b9949ba4b0b871a253"
+  },
+  "name": "Imac ",
+  "category": "Phones",
+  "address": "brand new collections",
+  "city": "coimbatore",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709140614/bgrlluyzqy3esvxdlbcn.jpg",
+  "createdAt": {
+    "$date": "2024-02-28T17:17:00.006Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T17:17:00.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df709a00c00f7bafb542cb"
+  },
+  "userID": {
+    "$oid": "65df6e9500c00f7bafb54262"
+  },
+  "name": "TWS",
+  "category": "Phones",
+  "address": "nothing to say",
+  "city": "coimbatore",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709142159/q5gx287ecrjvrzfdmpyl.jpg",
+  "createdAt": {
+    "$date": "2024-02-28T17:42:50.485Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T17:42:50.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df9b573b7632550538064e"
+  },
+  "userID": {
+    "$oid": "65df96423b76325505380559"
+  },
+  "name": "ar",
+  "category": "Wholesale",
+  "address": "arf 200 ",
+  "city": "ar",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709153107/jmfefgpfedf7nqpq6bsw.jpg",
+  "createdAt": {
+    "$date": "2024-02-28T20:45:11.848Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T20:45:11.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df9b8d3b76325505380650"
+  },
+  "userID": {
+    "$oid": "65df96423b76325505380559"
+  },
+  "name": "gad",
+  "category": "Groceries",
+  "address": "asdf 200",
+  "city": "San Pedro",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709153160/j7fvmbx4cw5q8koedxdp.jpg",
+  "createdAt": {
+    "$date": "2024-02-28T20:46:05.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T20:46:05.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dfe4f0097f4743d5a052bd"
+  },
+  "userID": {
+    "$oid": "65df759aafee9257e6918aa5"
+  },
+  "name": "DURAIRAJ PALANIAPPA CHETTIYAR",
+  "category": "Wholesale",
+  "address": "3/723 ROYAL CITY 2, sircar periyapalayam,\nUthukuli road",
+  "city": "tirupur",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709171945/eivbbyuqqboxyq51hhx1.jpg",
+  "createdAt": {
+    "$date": "2024-02-29T01:59:12.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-29T01:59:12.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e05df664b0dea00ece1961"
+  },
+  "userID": {
+    "$oid": "65d31710eb2132b47b46fb68"
+  },
+  "name": "jejejej",
+  "category": "Wholesale",
+  "address": "eeee",
+  "city": "eee",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709202928/yyjv9nlrs6yambhdkmrv.png",
+  "createdAt": {
+    "$date": "2024-02-29T10:35:34.295Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-29T10:35:34.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e1be4325acac57ae73d6c7"
+  },
+  "userID": {
+    "$oid": "65e1bdfe25acac57ae73d6b5"
+  },
+  "name": "Electro",
+  "category": "SuperMart",
+  "address": "20200, 20200\n20200",
+  "city": "Bomet",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709293119/lmcs7uzvvrkksarbjkb5.jpg",
+  "createdAt": {
+    "$date": "2024-03-01T11:38:43.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T11:38:43.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e1f323731196ab52c97340"
+  },
+  "userID": {
+    "$oid": "65e1f2bd731196ab52c97331"
+  },
+  "name": "SARA RODRIGUEZ",
+  "category": "Phones",
+  "address": "MARRIOTT MARQUIS HOUSTON, TEXAS",
+  "city": "HOUSTON",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709306655/smrnmxdpa3nb8xgjwd9s.jpg",
+  "createdAt": {
+    "$date": "2024-03-01T15:24:19.890Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T15:24:19.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e217895bebaf4b474e87eb"
+  },
+  "userID": {
+    "$oid": "65e216605bebaf4b474e879c"
+  },
+  "name": "Panaderia",
+  "category": "Groceries",
+  "address": "Paseo de la Nogalera",
+  "city": "TRC",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709315953/owapj1lteq3ubytcjool.png",
+  "createdAt": {
+    "$date": "2024-03-01T17:59:37.539Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T17:59:37.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e4ac8cd5e79004dae45734"
+  },
+  "userID": {
+    "$oid": "65e48056c97e4c1c6a33b26d"
+  },
+  "name": "Om Sai",
+  "category": "Wholesale",
+  "address": "Kopargaon",
+  "city": "Kopargaon",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709485190/jz0jwi2wfqwlpp6zhfoj.jpg",
+  "createdAt": {
+    "$date": "2024-03-03T16:59:56.675Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T16:59:56.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e4afe2d5e79004dae4577c"
+  },
+  "userID": {
+    "$oid": "65e48056c97e4c1c6a33b26d"
+  },
+  "name": "Swami Samarth",
+  "category": "Electronics",
+  "address": "Sangamner",
+  "city": "Sangamner",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709486047/atgoeur266eyi0ptsxwd.jpg",
+  "createdAt": {
+    "$date": "2024-03-03T17:14:10.330Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T17:14:10.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e4fb9f5a98278b3c46a8c6"
+  },
+  "userID": {
+    "$oid": "65e4f998997bbf4e1ff1b5f8"
+  },
+  "name": "Sumathi Eswaran",
+  "category": "Groceries",
+  "address": "5 Pound End Mill Road",
+  "city": "BRAINTREE",
+  "createdAt": {
+    "$date": "2024-03-03T22:37:19.017Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-03T22:37:19.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e5288f25e24809731a096c"
+  },
+  "userID": {
+    "$oid": "65e5279f25e24809731a0937"
+  },
+  "name": "ODB Carmen",
+  "category": "Wholesale",
+  "address": "Carmen",
+  "city": "Carmen",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1709516937/nm8xpai8rjlgagpxvbui.png",
+  "createdAt": {
+    "$date": "2024-03-04T01:49:03.126Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-04T01:49:03.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f12d6e280a1d9ae0c348fd"
+  },
+  "userID": {
+    "$oid": "65f12cc4280a1d9ae0c348e6"
+  },
+  "name": "nanglam fashion",
+  "category": "Wholesale",
+  "address": "6 Kernel Street, Bode Thomas Road Surulere",
+  "city": "lagos",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1710304616/uf2hfad9sg3hs4pvnthh.png",
+  "createdAt": {
+    "$date": "2024-03-13T04:37:02.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T04:37:02.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f147031ea6b85b51153ec6"
+  },
+  "userID": {
+    "$oid": "65f1457d1ea6b85b51153e4c"
+  },
+  "name": "Oumar Mersile Atti Mahamat",
+  "category": "Phones",
+  "address": "6444\nCite 8e",
+  "city": "Yaounde",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1710311168/truetlviqcbtxi1eexfq.png",
+  "createdAt": {
+    "$date": "2024-03-13T06:26:11.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-13T06:26:11.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f23e7e761a7c8bf5a21393"
+  },
+  "userID": {
+    "$oid": "65f23df2761a7c8bf5a21381"
+  },
+  "name": "x3xmedia",
+  "category": "SuperMart",
+  "address": "66 rue alvoins",
+  "city": "Monaco",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1710374521/ibr1x9p00toutbkkbk6l.jpg",
+  "createdAt": {
+    "$date": "2024-03-14T00:02:06.222Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T00:02:06.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f29d8e51629815970a5dd3"
+  },
+  "userID": {
+    "$oid": "65f29c7051629815970a5d9d"
+  },
+  "name": "Laizer Store",
+  "category": "SpareParts",
+  "address": "38",
+  "city": "Arusha",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1710398858/nfan6lb8astwyfhfor8u.jpg",
+  "createdAt": {
+    "$date": "2024-03-14T06:47:42.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-14T06:47:42.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f4707940cc5af06e8868e1"
+  },
+  "userID": {
+    "$oid": "65e6f344c9d17e275a1f6f20"
+  },
+  "name": "SBF",
+  "category": "SuperMart",
+  "address": "Lund",
+  "city": "Lund",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1710518386/lipqvjvms5tev6gth4bz.jpg",
+  "createdAt": {
+    "$date": "2024-03-15T15:59:53.386Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T15:59:53.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f53e187d7a4b2ec9347c2d"
+  },
+  "userID": {
+    "$oid": "65f53d677d7a4b2ec9347c15"
+  },
+  "name": "Sok",
+  "category": "Wholesale",
+  "address": "ggg",
+  "city": "gggg",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1710571029/cg9fetexerhha1szchg1.jpg",
+  "createdAt": {
+    "$date": "2024-03-16T06:37:12.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-16T06:37:12.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f7ebcd8b2126a67c000bba"
+  },
+  "userID": {
+    "$oid": "65f7e76c8b2126a67c000a4f"
+  },
+  "name": "Stock 1",
+  "category": "Phones",
+  "address": "150 street",
+  "city": "Hargeisa",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1710746568/jybwueewiza1x7h0yl7s.jpg",
+  "createdAt": {
+    "$date": "2024-03-18T07:22:53.467Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T07:22:53.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f811c2a3f1fed76c92f62e"
+  },
+  "userID": {
+    "$oid": "65f8117ea3f1fed76c92f61a"
+  },
+  "name": "Lala Store",
+  "category": "Phones",
+  "address": "kdfjaldjf",
+  "city": "Hyderabad",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1710756285/asw0wxp1xdwsoqc7bk0y.jpg",
+  "createdAt": {
+    "$date": "2024-03-18T10:04:50.351Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T10:04:50.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fa9af2ae38fa59e930f32f"
+  },
+  "userID": {
+    "$oid": "65fa9984ae38fa59e930f2e2"
+  },
+  "name": "th",
+  "category": "Groceries",
+  "address": "th",
+  "city": "th",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1710922478/mnwhjnq1ni4v8s4im9po.png",
+  "createdAt": {
+    "$date": "2024-03-20T08:14:42.732Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-20T08:14:42.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc80a39bb9950e7aa0d21a"
+  },
+  "userID": {
+    "$oid": "65fc80679bb9950e7aa0d20a"
+  },
+  "name": "Muhammad Shaheryar",
+  "category": "Groceries",
+  "address": "5/680",
+  "city": "Karachi",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1711046815/witl1ta7vh2crpygeheg.png",
+  "createdAt": {
+    "$date": "2024-03-21T18:46:59.772Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-21T18:46:59.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fd78bae882c2b69a002082"
+  },
+  "userID": {
+    "$oid": "65fd77f3e882c2b69a00205c"
+  },
+  "name": "Umar sheikh",
+  "category": "Groceries",
+  "address": "Koh e Noor legacy tour fsd",
+  "city": "Jaranwala",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1711110324/ymotk8hk2mokdq4ezqmj.jpg",
+  "createdAt": {
+    "$date": "2024-03-22T12:25:30.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-22T12:25:30.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fdb6edc8d9f23bd795f033"
+  },
+  "userID": {
+    "$oid": "65fdb646c8d9f23bd795efe3"
+  },
+  "name": "Something",
+  "category": "Electronics",
+  "address": "sdsdfsdf",
+  "city": "SomeCity",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1711126250/obf59htapvwnvtv62bhl.png",
+  "createdAt": {
+    "$date": "2024-03-22T16:50:53.573Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-22T16:50:53.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66005bd05069db4c2d5507ac"
+  },
+  "userID": {
+    "$oid": "6600596520370d655fea59b7"
+  },
+  "name": "IStore",
+  "category": "Phones",
+  "address": "Apple Exclusive Store",
+  "city": "Madurai",
+  "createdAt": {
+    "$date": "2024-03-24T16:58:56.184Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-24T16:58:56.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66005c8c5069db4c2d5507d4"
+  },
+  "userID": {
+    "$oid": "6600596520370d655fea59b7"
+  },
+  "name": "Apple Store",
+  "category": "SuperMart",
+  "address": "Apple Exclusive Store",
+  "city": "Madurai",
+  "createdAt": {
+    "$date": "2024-03-24T17:02:04.137Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-24T17:02:04.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660128f7ef2d9da5a0983f12"
+  },
+  "userID": {
+    "$oid": "65ffdce0f0a4067afd7eed0a"
+  },
+  "name": "RED STORE",
+  "category": "Wholesale",
+  "address": "53,ABC colony,\nC AVENUE,\nD car street.",
+  "city": "Srivilliputtur",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1711352047/obh51ceqrvqdn9w0buku.png",
+  "createdAt": {
+    "$date": "2024-03-25T07:34:15.476Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-25T07:34:15.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602785b5b6b6543883a6a84"
+  },
+  "userID": {
+    "$oid": "6602559949c88a5c7ac1fb78"
+  },
+  "name": "Abc",
+  "category": "Phones",
+  "address": "America",
+  "city": "Abc",
+  "image": "http://res.cloudinary.com/ddhayhptm/image/upload/v1711437911/fayshbqglf8nztxfhfwj.jpg",
+  "createdAt": {
+    "$date": "2024-03-26T07:25:15.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-26T07:25:15.180Z"
+  },
+  "__v": 0
+}]
