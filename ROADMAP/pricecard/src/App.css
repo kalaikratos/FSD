@@ -1,18 +1,12 @@
 section.pricing {
-  background: #0085e3;
   background: linear-gradient(to right, #04528a, #0085e3);
   display: flex;
   width: 100vw;
-  
-  
-  
-  align-items: center;
+  height: 100vh;
   justify-content: center;
+  align-items: center;
   padding: 0 2rem;
-}
-
-.pricing .card-title {
-  opacity: 0.2;
+  flex-wrap: wrap; /* Allow cards to wrap on smaller screens */
 }
 
 .pricing .card {
@@ -25,6 +19,9 @@ section.pricing {
   padding: 1rem;
   text-align: center;
   color: rgb(9, 9, 9);
+  flex: 1; /* Allow cards to grow and shrink */
+  min-width: 250px; /* Ensure a minimum width for small screens */
+  max-width: 300px; /* Limit the maximum width */
 }
 
 .pricing hr {
@@ -98,14 +95,34 @@ h6 {
 }
 
 /* Responsive Styles */
-@media (max-width: 375px) {
+@media (max-width: 1024px) {
+  .pricing .card {
+    max-width: 250px; /* Adjust max width for medium screens */
+  }
+}
+
+@media (max-width: 768px) {
   section.pricing {
     flex-direction: column;
     padding: 2rem;
+    height: auto; /* Adjust height to fit content */
   }
 
   .pricing .card {
     margin: 1rem 0;
+    width: 100%; /* Ensure cards take full width */
+    max-width: none; /* Remove max width constraint */
   }
 }
 
+@media (max-width: 576px) {
+  .pricing .card-price {
+    font-size: 2rem;
+  }
+  .pricing .card-title {
+    font-size: 1rem;
+  }
+  .pricing .btn {
+    font-size: 70%;
+  }
+}
